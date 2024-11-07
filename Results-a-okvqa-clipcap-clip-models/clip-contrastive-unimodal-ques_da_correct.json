@@ -1,0 +1,690 @@
+{
+  "2C8riXpRLX3CyM5jDz23m7": {
+    "question_id": "2C8riXpRLX3CyM5jDz23m7",
+    "prediction": "frosting",
+    "actual": [
+      "icing",
+      "whipped cream",
+      "icing",
+      "frosting",
+      "icing",
+      "frosting",
+      "cream",
+      "icing",
+      "icing",
+      "frosting"
+    ]
+  },
+  "6xTMCHe4ABbm6NDntoEkLJ": {
+    "question_id": "6xTMCHe4ABbm6NDntoEkLJ",
+    "prediction": "palm tree",
+    "actual": [
+      "palm tree",
+      "palm tree",
+      "palm",
+      "palm",
+      "palm",
+      "palm tree",
+      "palm tree",
+      "palm",
+      "palm tree",
+      "palm tree"
+    ]
+  },
+  "7L2zGA6XFJrPCfLJCwBrww": {
+    "question_id": "7L2zGA6XFJrPCfLJCwBrww",
+    "prediction": "grazing",
+    "actual": [
+      "grazing",
+      "grazing",
+      "eating",
+      "eating",
+      "eating",
+      "grazing",
+      "eating",
+      "grazing",
+      "grazing",
+      "eating"
+    ]
+  },
+  "8PZriuWuwokXCriqVBZwSJ": {
+    "question_id": "8PZriuWuwokXCriqVBZwSJ",
+    "prediction": "tracks",
+    "actual": [
+      "track",
+      "train",
+      "tracks",
+      "tracks",
+      "train tracks",
+      "rails",
+      "train tracks",
+      "rails",
+      "tracks",
+      "rails"
+    ]
+  },
+  "8pfeZwe43HT9mMjVmdZhzm": {
+    "question_id": "8pfeZwe43HT9mMjVmdZhzm",
+    "prediction": "one",
+    "actual": [
+      "four",
+      "four",
+      "one",
+      "four",
+      "one",
+      "four",
+      "four",
+      "one",
+      "four",
+      "one"
+    ]
+  },
+  "8vzpRWS6dDNrFCouzebMm9": {
+    "question_id": "8vzpRWS6dDNrFCouzebMm9",
+    "prediction": "wii",
+    "actual": [
+      "nintendo wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii"
+    ]
+  },
+  "AXvcbZSCWScQ9hb4hjB4si": {
+    "question_id": "AXvcbZSCWScQ9hb4hjB4si",
+    "prediction": "spiderman",
+    "actual": [
+      "spiderman",
+      "spiderman",
+      "spiderman",
+      "spiderman",
+      "superman",
+      "spiderman",
+      "spiderman",
+      "spiderman",
+      "spiderman",
+      "spiderman"
+    ]
+  },
+  "BSgG9C63esRw6W3Tw6rBbu": {
+    "question_id": "BSgG9C63esRw6W3Tw6rBbu",
+    "prediction": "skateboard",
+    "actual": [
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard move",
+      "skateboard move",
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard"
+    ]
+  },
+  "CcD6HgxREVqanqLnSysBTr": {
+    "question_id": "CcD6HgxREVqanqLnSysBTr",
+    "prediction": "mustard",
+    "actual": [
+      "mustard",
+      "mustard",
+      "tangy",
+      "mustard",
+      "tangy",
+      "mustard",
+      "sweet",
+      "mustard",
+      "mustard",
+      "mustard"
+    ]
+  },
+  "D6q9dXSUpTBgDkWi7e7dYS": {
+    "question_id": "D6q9dXSUpTBgDkWi7e7dYS",
+    "prediction": "banana split",
+    "actual": [
+      "banana split",
+      "banana split",
+      "banana split",
+      "sundae",
+      "banana split",
+      "banana split",
+      "banana slit",
+      "banana split",
+      "ice cream",
+      "banana split"
+    ]
+  },
+  "DwKTiqQxFH5Ei2cQGR3Y9U": {
+    "question_id": "DwKTiqQxFH5Ei2cQGR3Y9U",
+    "prediction": "wok",
+    "actual": [
+      "wok",
+      "wok",
+      "wok",
+      "wok",
+      "wok",
+      "wok",
+      "stir fry",
+      "pan",
+      "wok",
+      "saucer pan"
+    ]
+  },
+  "Eyzb8SKxYzzJuegL3tkwga": {
+    "question_id": "Eyzb8SKxYzzJuegL3tkwga",
+    "prediction": "cotton",
+    "actual": [
+      "cotton",
+      "cotton",
+      "paper",
+      "fabric",
+      "cotton",
+      "cotton",
+      "cotton",
+      "cotton",
+      "fabric",
+      "cotton"
+    ]
+  },
+  "F5CqqWCtosWowj39Kchh9E": {
+    "question_id": "F5CqqWCtosWowj39Kchh9E",
+    "prediction": "german shepherd",
+    "actual": [
+      "german shepherd",
+      "german shepard",
+      "german shepherd",
+      "german shepard",
+      "german shepard",
+      "domestic pet",
+      "german shepard",
+      "german shepherd",
+      "german shepherd",
+      "german shepherd"
+    ]
+  },
+  "H8bbnrXJwvzCPyGsK48h8c": {
+    "question_id": "H8bbnrXJwvzCPyGsK48h8c",
+    "prediction": "classroom",
+    "actual": [
+      "school",
+      "classroom",
+      "classroom",
+      "classroom",
+      "school",
+      "classroom",
+      "computer lab",
+      "classroom",
+      "conference room",
+      "school"
+    ]
+  },
+  "KYHbG5z9mj4H4dAJbzLuQ4": {
+    "question_id": "KYHbG5z9mj4H4dAJbzLuQ4",
+    "prediction": "dress",
+    "actual": [
+      "blue dress",
+      "dress",
+      "dress",
+      "dress",
+      "dress",
+      "dress",
+      "dress",
+      "anklet",
+      "ankle bracelet",
+      "dress"
+    ]
+  },
+  "LduCAeBABsAgiTkxMrytDf": {
+    "question_id": "LduCAeBABsAgiTkxMrytDf",
+    "prediction": "olive oil",
+    "actual": [
+      "unknown",
+      "olive oil",
+      "relish",
+      "olive oil",
+      "olive oil",
+      "oil",
+      "olive oil",
+      "alcohol",
+      "oil",
+      "unknown"
+    ]
+  },
+  "M24oDREQRXZxbPHeX82hTm": {
+    "question_id": "M24oDREQRXZxbPHeX82hTm",
+    "prediction": "to eat",
+    "actual": [
+      "to eat",
+      "eating",
+      "eat",
+      "eating",
+      "to eat",
+      "to eat",
+      "to eat",
+      "to eat",
+      "to eat",
+      "dinner"
+    ]
+  },
+  "MNd63HUuxoKR7oBz6d3zA5": {
+    "question_id": "MNd63HUuxoKR7oBz6d3zA5",
+    "prediction": "purse",
+    "actual": [
+      "purse",
+      "purse",
+      "purse",
+      "fanny pack",
+      "purse",
+      "fanny pack",
+      "purse",
+      "purse",
+      "purse",
+      "purse"
+    ]
+  },
+  "MvjdGpXqcdaADbsGwjo2Bm": {
+    "question_id": "MvjdGpXqcdaADbsGwjo2Bm",
+    "prediction": "ski poles",
+    "actual": [
+      "ski poles",
+      "ski poles",
+      "ski poles",
+      "ski poles",
+      "poles",
+      "poles",
+      "poles",
+      "ski poles",
+      "ski poles",
+      "poles"
+    ]
+  },
+  "QgbaJEnafjdsdWx5ReQAPn": {
+    "question_id": "QgbaJEnafjdsdWx5ReQAPn",
+    "prediction": "electricity",
+    "actual": [
+      "electricity",
+      "electricity",
+      "electric",
+      "magnetic force",
+      "electricity",
+      "electric",
+      "electric",
+      "electricity",
+      "electric",
+      "electricity"
+    ]
+  },
+  "RxPKF64GYxeyCLiP32aKf5": {
+    "question_id": "RxPKF64GYxeyCLiP32aKf5",
+    "prediction": "illinois",
+    "actual": [
+      "washington",
+      "chicago",
+      "illinois",
+      "illinois",
+      "illinois",
+      "chicago",
+      "illinois",
+      "new york",
+      "illinois",
+      "illinois"
+    ]
+  },
+  "SgSpH9dKik4F3kZ9pu2EbH": {
+    "question_id": "SgSpH9dKik4F3kZ9pu2EbH",
+    "prediction": "donuts",
+    "actual": [
+      "donuts",
+      "donuts",
+      "doughnuts",
+      "donuts",
+      "donuts",
+      "donuts",
+      "donuts",
+      "donuts",
+      "doughnuts",
+      "doughnuts"
+    ]
+  },
+  "ULATNnxK9NEPMyLLPjSbDs": {
+    "question_id": "ULATNnxK9NEPMyLLPjSbDs",
+    "prediction": "asian",
+    "actual": [
+      "asian",
+      "asian",
+      "asian",
+      "asian",
+      "japanese",
+      "asian",
+      "chinese",
+      "white",
+      "asian",
+      "japanese"
+    ]
+  },
+  "UPhByDxcyegyWfhgbrkTZD": {
+    "question_id": "UPhByDxcyegyWfhgbrkTZD",
+    "prediction": "cellphone",
+    "actual": [
+      "phone",
+      "phone",
+      "cellphone",
+      "phone",
+      "cellphone",
+      "phone",
+      "phone",
+      "cellphone",
+      "phone",
+      "cell phone"
+    ]
+  },
+  "UdzPZ8vzkJg3Bp2pMQP5f2": {
+    "question_id": "UdzPZ8vzkJg3Bp2pMQP5f2",
+    "prediction": "swan",
+    "actual": [
+      "swan",
+      "swan",
+      "goose",
+      "swan",
+      "swan",
+      "goose",
+      "stork",
+      "stork",
+      "goose",
+      "swan"
+    ]
+  },
+  "UpTNoSajrD27GvfoAdVnsC": {
+    "question_id": "UpTNoSajrD27GvfoAdVnsC",
+    "prediction": "four",
+    "actual": [
+      "four",
+      "seven",
+      "four",
+      "four",
+      "four",
+      "four",
+      "four",
+      "four",
+      "four",
+      "four"
+    ]
+  },
+  "WCss8XpjKYENCSuFCSKUz8": {
+    "question_id": "WCss8XpjKYENCSuFCSKUz8",
+    "prediction": "red",
+    "actual": [
+      "orange",
+      "orange",
+      "red",
+      "red",
+      "red",
+      "pink",
+      "orange",
+      "orange",
+      "red",
+      "orange"
+    ]
+  },
+  "XcYCdxp4Javwyxx6cihuSz": {
+    "question_id": "XcYCdxp4Javwyxx6cihuSz",
+    "prediction": "tracks",
+    "actual": [
+      "rails",
+      "rails",
+      "rails",
+      "railroad",
+      "tracks",
+      "rail",
+      "junction",
+      "tracks",
+      "tracks",
+      "railroad tracks"
+    ]
+  },
+  "YibQmkwXJ4TPVqZjhqmV9r": {
+    "question_id": "YibQmkwXJ4TPVqZjhqmV9r",
+    "prediction": "powdered sugar",
+    "actual": [
+      "powdered sugar",
+      "pastry",
+      "icing sugar",
+      "sugar",
+      "powdered sugar",
+      "powdered sugar",
+      "sugar",
+      "powdered sugar",
+      "powdered sugar",
+      "pie"
+    ]
+  },
+  "ZXpemwU9BnGkBEdj8f6tqD": {
+    "question_id": "ZXpemwU9BnGkBEdj8f6tqD",
+    "prediction": "ski down",
+    "actual": [
+      "ski down",
+      "skating skier",
+      "ski down",
+      "skiing",
+      "skiing",
+      "skiing downhill",
+      "skiing",
+      "ski down",
+      "ski down",
+      "ski down"
+    ]
+  },
+  "aAEJFGA3xJLXv4gMXqCd84": {
+    "question_id": "aAEJFGA3xJLXv4gMXqCd84",
+    "prediction": "eye protection",
+    "actual": [
+      "skiing",
+      "eye protection",
+      "eye protection",
+      "protection",
+      "protection",
+      "snow",
+      "eye protection",
+      "eye protection",
+      "eye protection",
+      "eye protection"
+    ]
+  },
+  "admjQXJJsLpbcEdRVyvVsf": {
+    "question_id": "admjQXJJsLpbcEdRVyvVsf",
+    "prediction": "mud",
+    "actual": [
+      "sand",
+      "dirt",
+      "mud",
+      "dirt",
+      "mud",
+      "mud",
+      "mud",
+      "mud",
+      "sand",
+      "dirt"
+    ]
+  },
+  "bqgrwRMbZtGzixs99Lommf": {
+    "question_id": "bqgrwRMbZtGzixs99Lommf",
+    "prediction": "skateboard",
+    "actual": [
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard"
+    ]
+  },
+  "dvvTUCDA3wK4Q9KZKboPgg": {
+    "question_id": "dvvTUCDA3wK4Q9KZKboPgg",
+    "prediction": "steam",
+    "actual": [
+      "steam",
+      "smoke",
+      "steam",
+      "smoke",
+      "steam",
+      "smog",
+      "smoke",
+      "steam",
+      "smoke",
+      "steam"
+    ]
+  },
+  "eB3RtTTsyXa6YKzPMrm4kd": {
+    "question_id": "eB3RtTTsyXa6YKzPMrm4kd",
+    "prediction": "red wine",
+    "actual": [
+      "red wine",
+      "wine",
+      "wine",
+      "red wine",
+      "wine",
+      "red wine",
+      "wine",
+      "wine",
+      "red wine",
+      "wine"
+    ]
+  },
+  "fQFRMaUHmiyqntdRxaa8Lf": {
+    "question_id": "fQFRMaUHmiyqntdRxaa8Lf",
+    "prediction": "roman numerals",
+    "actual": [
+      "roman numerals",
+      "roman numerals",
+      "roman",
+      "roman",
+      "roman numerals",
+      "roman",
+      "roman",
+      "roman numerals",
+      "roman numerals",
+      "roman"
+    ]
+  },
+  "geoznuKRiPX5hf2he5EgpS": {
+    "question_id": "geoznuKRiPX5hf2he5EgpS",
+    "prediction": "three",
+    "actual": [
+      "three",
+      "three",
+      "three",
+      "three",
+      "three",
+      "three",
+      "three",
+      "three",
+      "three",
+      "three"
+    ]
+  },
+  "hmfuC58r3K4Yg7EkMxJXXb": {
+    "question_id": "hmfuC58r3K4Yg7EkMxJXXb",
+    "prediction": "potato",
+    "actual": [
+      "potatoes",
+      "potatoes",
+      "potatoes",
+      "potatoes",
+      "potato",
+      "potato",
+      "potato",
+      "potatoes",
+      "potato",
+      "potatoes"
+    ]
+  },
+  "j4usZ4NoJf62hcBq4GCBc7": {
+    "question_id": "j4usZ4NoJf62hcBq4GCBc7",
+    "prediction": "chinese",
+    "actual": [
+      "japanese",
+      "chinese",
+      "asian",
+      "chinese",
+      "asian",
+      "stirfry",
+      "chinese",
+      "chinese",
+      "chinese",
+      "asian"
+    ]
+  },
+  "jyrnj3VZZGHVf5gYxzYmxA": {
+    "question_id": "jyrnj3VZZGHVf5gYxzYmxA",
+    "prediction": "wine tasting",
+    "actual": [
+      "wine tasting",
+      "wine tasting",
+      "wine gallery",
+      "wine tasting",
+      "tasting",
+      "wine tasting",
+      "wine tasting",
+      "tasting",
+      "wine tasting",
+      "wine tasting"
+    ]
+  },
+  "mQ5TJVLswrNGGP3La64Erc": {
+    "question_id": "mQ5TJVLswrNGGP3La64Erc",
+    "prediction": "grazing",
+    "actual": [
+      "grazing",
+      "eating",
+      "feeding",
+      "grazing",
+      "grazing",
+      "grazing",
+      "grazing",
+      "grazing",
+      "grazing",
+      "grazing"
+    ]
+  },
+  "mcfejYn8zoagoF5VgNuR2F": {
+    "question_id": "mcfejYn8zoagoF5VgNuR2F",
+    "prediction": "red wine",
+    "actual": [
+      "wine",
+      "wine",
+      "red wine",
+      "wine",
+      "wine",
+      "wine",
+      "wine",
+      "red wine",
+      "wine",
+      "red wine"
+    ]
+  },
+  "RAq5ExoFdoDbbU97rvFYfZ": {
+    "question_id": "RAq5ExoFdoDbbU97rvFYfZ",
+    "prediction": "dodgers",
+    "actual": [
+      "dodgers",
+      "dodger",
+      "dodgers",
+      "catching",
+      "dodgers",
+      "dodgers",
+      "red",
+      "team members",
+      "playing hokky",
+      "dodgers"
+    ]
+  }
+}
