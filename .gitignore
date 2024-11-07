@@ -1,0 +1,12 @@
+# Ignore .DS_Store files (macOS)
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore zip files
+*.zip

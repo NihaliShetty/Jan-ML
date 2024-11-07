@@ -1,0 +1,2594 @@
+{
+  "2P5mVJc5a6DcCN9opV92FJ": {
+    "question_id": "2P5mVJc5a6DcCN9opV92FJ",
+    "prediction": "surfing",
+    "actual": [
+      "surfing",
+      "surfing",
+      "crouching",
+      "surfing",
+      "surfing",
+      "ducking",
+      "bending",
+      "crouching",
+      "surfing",
+      "surfing"
+    ]
+  },
+  "2PGwvdFESLvwfFCwK5pbYu": {
+    "question_id": "2PGwvdFESLvwfFCwK5pbYu",
+    "prediction": "jeans",
+    "actual": [
+      "jeans",
+      "blue jeans",
+      "jeans",
+      "denim",
+      "jeans",
+      "jeans",
+      "jeans",
+      "jeans",
+      "jeans",
+      "blue jeans"
+    ]
+  },
+  "2RN4dwhRZR3ZSKHtRnJdX3": {
+    "question_id": "2RN4dwhRZR3ZSKHtRnJdX3",
+    "prediction": "united states",
+    "actual": [
+      "united states",
+      "united states",
+      "usa",
+      "united states",
+      "united states",
+      "ukraine",
+      "germany",
+      "germany",
+      "america",
+      "usa"
+    ]
+  },
+  "2sUggWn8qBk97E38wKpjN5": {
+    "question_id": "2sUggWn8qBk97E38wKpjN5",
+    "prediction": "afternoon",
+    "actual": [
+      "afternoon",
+      "evening",
+      "evening",
+      "evening",
+      "daytime",
+      "evening",
+      "midday",
+      "afternoon",
+      "afternoon",
+      "noon"
+    ]
+  },
+  "2wbNBVZMGZnVpYohDAed8d": {
+    "question_id": "2wbNBVZMGZnVpYohDAed8d",
+    "prediction": "dinner",
+    "actual": [
+      "dinner",
+      "meal",
+      "dinner",
+      "dinner",
+      "celebration",
+      "christmas",
+      "dinner",
+      "date",
+      "dinner",
+      "dinner"
+    ]
+  },
+  "2yWyzYRyZuYH2ZB49WNACa": {
+    "question_id": "2yWyzYRyZuYH2ZB49WNACa",
+    "prediction": "frisbee",
+    "actual": [
+      "frisbee",
+      "frisbee",
+      "frisbee",
+      "frisbee",
+      "frisbee",
+      "frisbee",
+      "frisbee",
+      "frisbee",
+      "frisbee",
+      "frisbee"
+    ]
+  },
+  "34ah8AmQenWUyH2fZvJH7a": {
+    "question_id": "34ah8AmQenWUyH2fZvJH7a",
+    "prediction": "ski",
+    "actual": [
+      "ski resort",
+      "skiing",
+      "ski resort",
+      "ski resort",
+      "ski resort",
+      "ski",
+      "ski",
+      "ski",
+      "ski",
+      "snow"
+    ]
+  },
+  "3cCvfCWnLfrmqYEaFzb2Xm": {
+    "question_id": "3cCvfCWnLfrmqYEaFzb2Xm",
+    "prediction": "market",
+    "actual": [
+      "outdoor market",
+      "market",
+      "market",
+      "market",
+      "market",
+      "street festival",
+      "event",
+      "market",
+      "market",
+      "street"
+    ]
+  },
+  "3zxLUD8FPcCLJWYsG7h2KY": {
+    "question_id": "3zxLUD8FPcCLJWYsG7h2KY",
+    "prediction": "kitchen",
+    "actual": [
+      "home",
+      "domestic kitchen",
+      "kitchen",
+      "kitchen",
+      "kitchen",
+      "home",
+      "hostel",
+      "kitchen",
+      "kitchen",
+      "home kitchen"
+    ]
+  },
+  "4BFN6MtJcaFzpccm3UwZva": {
+    "question_id": "4BFN6MtJcaFzpccm3UwZva",
+    "prediction": "bathroom",
+    "actual": [
+      "bathroom",
+      "bathroom",
+      "bathroom",
+      "bathroom",
+      "bathroom",
+      "bathroom",
+      "bathroom",
+      "bathroom",
+      "bathroom",
+      "bathroom"
+    ]
+  },
+  "4UrYfZMUToiF5f7GK6eMaz": {
+    "question_id": "4UrYfZMUToiF5f7GK6eMaz",
+    "prediction": "visibility",
+    "actual": [
+      "safety",
+      "safety",
+      "safety reflection",
+      "safety",
+      "visibility",
+      "safety",
+      "workers",
+      "visibility",
+      "visibility",
+      "safety reflection"
+    ]
+  },
+  "4Z7WvuLTj7VUpVtLL2W2g7": {
+    "question_id": "4Z7WvuLTj7VUpVtLL2W2g7",
+    "prediction": "bathroom",
+    "actual": [
+      "bathroom",
+      "bathroom",
+      "bathroom",
+      "bathroom",
+      "bathroom sinks",
+      "bathroom sinks",
+      "bathroom sinks",
+      "bathroom",
+      "ceramic",
+      "bathroom"
+    ]
+  },
+  "4j6bW4ChHncMKUnmnGAQQ2": {
+    "question_id": "4j6bW4ChHncMKUnmnGAQQ2",
+    "prediction": "party",
+    "actual": [
+      "meeting",
+      "meeting",
+      "school event",
+      "meeting",
+      "party",
+      "working event",
+      "party",
+      "social",
+      "academic",
+      "party"
+    ]
+  },
+  "4mgcpzD4d6adkPQP7cxg54": {
+    "question_id": "4mgcpzD4d6adkPQP7cxg54",
+    "prediction": "new york",
+    "actual": [
+      "new york",
+      "new york",
+      "new york",
+      "new york",
+      "new york",
+      "new york",
+      "new york",
+      "nyc",
+      "new york",
+      "new york"
+    ]
+  },
+  "5Re4MQxw5XwLbQQzqQVZcV": {
+    "question_id": "5Re4MQxw5XwLbQQzqQVZcV",
+    "prediction": "soup",
+    "actual": [
+      "vegetable",
+      "soup",
+      "soup",
+      "soup",
+      "spinach",
+      "salad",
+      "lettuce",
+      "soup",
+      "drinks",
+      "vegetables"
+    ]
+  },
+  "5oBisjqVjcXEXGkd2uKPDe": {
+    "question_id": "5oBisjqVjcXEXGkd2uKPDe",
+    "prediction": "phone",
+    "actual": [
+      "phone",
+      "phone",
+      "phone",
+      "cellphone",
+      "phone",
+      "cellphone",
+      "phone",
+      "phone",
+      "cellphone",
+      "phone"
+    ]
+  },
+  "65Sfsx6hqdJ5UqNWLB3RCG": {
+    "question_id": "65Sfsx6hqdJ5UqNWLB3RCG",
+    "prediction": "africa",
+    "actual": [
+      "africa",
+      "african",
+      "wild",
+      "africa",
+      "field",
+      "forest",
+      "africa",
+      "jungle",
+      "savanna",
+      "africa"
+    ]
+  },
+  "6FKSZrTS9wzHwnKasBSfdP": {
+    "question_id": "6FKSZrTS9wzHwnKasBSfdP",
+    "prediction": "dip",
+    "actual": [
+      "sour cream",
+      "dip",
+      "dipping",
+      "dip",
+      "dipping",
+      "dipping",
+      "dip",
+      "dip",
+      "dipping",
+      "dipping"
+    ]
+  },
+  "6LfBvcynQvD7BaU3CCvfNG": {
+    "question_id": "6LfBvcynQvD7BaU3CCvfNG",
+    "prediction": "building",
+    "actual": [
+      "building",
+      "building",
+      "trafic rules",
+      "building",
+      "building",
+      "building",
+      "transportation depo",
+      "building",
+      "building",
+      "mall construction"
+    ]
+  },
+  "6YyPKdGwhA3LJkUpL3p9F6": {
+    "question_id": "6YyPKdGwhA3LJkUpL3p9F6",
+    "prediction": "skiing",
+    "actual": [
+      "skiing",
+      "skating",
+      "skiing",
+      "skiing",
+      "skiing",
+      "skiing",
+      "skiing",
+      "skiing",
+      "skiing",
+      "skiing"
+    ]
+  },
+  "6kgVidVJRysLz6Rx3eNBZi": {
+    "question_id": "6kgVidVJRysLz6Rx3eNBZi",
+    "prediction": "living room",
+    "actual": [
+      "living room",
+      "home",
+      "carpet",
+      "living room",
+      "living room",
+      "living room",
+      "home",
+      "living room",
+      "livingroom",
+      "floor"
+    ]
+  },
+  "7L2zGA6XFJrPCfLJCwBrww": {
+    "question_id": "7L2zGA6XFJrPCfLJCwBrww",
+    "prediction": "eating",
+    "actual": [
+      "grazing",
+      "grazing",
+      "eating",
+      "eating",
+      "eating",
+      "grazing",
+      "eating",
+      "grazing",
+      "grazing",
+      "eating"
+    ]
+  },
+  "7dxcZiZowsAK34QswVhXy3": {
+    "question_id": "7dxcZiZowsAK34QswVhXy3",
+    "prediction": "cold",
+    "actual": [
+      "cold",
+      "cold",
+      "cold",
+      "cool range",
+      "temperate",
+      "cold",
+      "cold",
+      "chilly",
+      "hot",
+      "chilly"
+    ]
+  },
+  "8LVHUcGX7daYbXPh59c8pW": {
+    "question_id": "8LVHUcGX7daYbXPh59c8pW",
+    "prediction": "airplane",
+    "actual": [
+      "military plane",
+      "jet",
+      "plane",
+      "plane",
+      "fighter jet",
+      "plane",
+      "airplane",
+      "airplane",
+      "airplane",
+      "plane"
+    ]
+  },
+  "8MMdCgrej5iBZ7PitRYrt3": {
+    "question_id": "8MMdCgrej5iBZ7PitRYrt3",
+    "prediction": "suitcase",
+    "actual": [
+      "suitcase",
+      "suitcase",
+      "suitcase",
+      "roll away",
+      "suitcase",
+      "doll bag",
+      "backpack",
+      "suitcase",
+      "suitcase",
+      "suitcase"
+    ]
+  },
+  "8SzR5UpGtrsFWoxheZ9SkE": {
+    "question_id": "8SzR5UpGtrsFWoxheZ9SkE",
+    "prediction": "wii",
+    "actual": [
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "nintendo wii",
+      "wii",
+      "wii"
+    ]
+  },
+  "8vzpRWS6dDNrFCouzebMm9": {
+    "question_id": "8vzpRWS6dDNrFCouzebMm9",
+    "prediction": "wii",
+    "actual": [
+      "nintendo wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii"
+    ]
+  },
+  "99Ra8z27K9FLU2u5acKAqp": {
+    "question_id": "99Ra8z27K9FLU2u5acKAqp",
+    "prediction": "train",
+    "actual": [
+      "train",
+      "train",
+      "train",
+      "train",
+      "train",
+      "train",
+      "train",
+      "train",
+      "train",
+      "rail"
+    ]
+  },
+  "99VEZ5bvSGBLWtkpJiAAXg": {
+    "question_id": "99VEZ5bvSGBLWtkpJiAAXg",
+    "prediction": "eating",
+    "actual": [
+      "eating",
+      "eating",
+      "eating",
+      "eating",
+      "eating",
+      "eating",
+      "eating",
+      "eating",
+      "eating",
+      "eating"
+    ]
+  },
+  "9J5n2f4j4R4B9t3c6MPSi3": {
+    "question_id": "9J5n2f4j4R4B9t3c6MPSi3",
+    "prediction": "chicken",
+    "actual": [
+      "chicken",
+      "chicken",
+      "chicken",
+      "chicken",
+      "chicken",
+      "turkey",
+      "chicken",
+      "chicken",
+      "turkey",
+      "chicken"
+    ]
+  },
+  "9d7StqUZPtRBbHjSDFwwqa": {
+    "question_id": "9d7StqUZPtRBbHjSDFwwqa",
+    "prediction": "classmates",
+    "actual": [
+      "school class",
+      "classmates",
+      "classmates",
+      "classmates",
+      "classmates",
+      "classmates",
+      "classmates",
+      "school chums",
+      "school",
+      "classmates"
+    ]
+  },
+  "9m5dBgT3PJrhWRCDg9ee2z": {
+    "question_id": "9m5dBgT3PJrhWRCDg9ee2z",
+    "prediction": "bus",
+    "actual": [
+      "bus",
+      "bus",
+      "bus",
+      "bus",
+      "bus",
+      "bus",
+      "bus",
+      "passenger",
+      "bus",
+      "bus"
+    ]
+  },
+  "AJvjHZ5SF3hD6C3eYniXsc": {
+    "question_id": "AJvjHZ5SF3hD6C3eYniXsc",
+    "prediction": "plowing",
+    "actual": [
+      "farming",
+      "plowing",
+      "farming",
+      "farming",
+      "plowing",
+      "carriage pulling",
+      "plowing",
+      "farming",
+      "plow field",
+      "plowing"
+    ]
+  },
+  "B725pHrrknZKDAqoLBjeof": {
+    "question_id": "B725pHrrknZKDAqoLBjeof",
+    "prediction": "apple",
+    "actual": [
+      "apple",
+      "apple",
+      "apple",
+      "apple",
+      "apple",
+      "apple",
+      "apple",
+      "apple",
+      "apple",
+      "apple"
+    ]
+  },
+  "BNpoJaz9Qu7KQ87FoFfRab": {
+    "question_id": "BNpoJaz9Qu7KQ87FoFfRab",
+    "prediction": "plowing",
+    "actual": [
+      "farming",
+      "farming",
+      "tilling",
+      "plowing field",
+      "plowing",
+      "ploughing",
+      "plowing",
+      "plow",
+      "plowing",
+      "tilling"
+    ]
+  },
+  "BQYQHxqKeExvS6GyHbBLjJ": {
+    "question_id": "BQYQHxqKeExvS6GyHbBLjJ",
+    "prediction": "airport",
+    "actual": [
+      "airport",
+      "airport",
+      "airport",
+      "airport",
+      "airport",
+      "airport",
+      "airport",
+      "airport",
+      "airport",
+      "airport"
+    ]
+  },
+  "BSgG9C63esRw6W3Tw6rBbu": {
+    "question_id": "BSgG9C63esRw6W3Tw6rBbu",
+    "prediction": "skateboard",
+    "actual": [
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard move",
+      "skateboard move",
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard"
+    ]
+  },
+  "BaNWccWHEXHgtdo2h5795T": {
+    "question_id": "BaNWccWHEXHgtdo2h5795T",
+    "prediction": "stop",
+    "actual": [
+      "stop sign",
+      "traffic",
+      "stop",
+      "stop",
+      "stop sign",
+      "stop",
+      "stop",
+      "stop",
+      "stop sign",
+      "stop sign"
+    ]
+  },
+  "Bp5VwMuky5fXJPzp54X6XE": {
+    "question_id": "Bp5VwMuky5fXJPzp54X6XE",
+    "prediction": "food",
+    "actual": [
+      "cooking",
+      "chef",
+      "food service",
+      "food",
+      "restaurant",
+      "food",
+      "restaurant",
+      "food",
+      "food",
+      "chef"
+    ]
+  },
+  "BpLgWvp3a7WEzrsmnpQBWT": {
+    "question_id": "BpLgWvp3a7WEzrsmnpQBWT",
+    "prediction": "string",
+    "actual": [
+      "tail",
+      "string",
+      "string",
+      "string",
+      "threat",
+      "wind",
+      "wind",
+      "camp",
+      "kite",
+      "string"
+    ]
+  },
+  "CMPt5xfqSyHQoFockxCWux": {
+    "question_id": "CMPt5xfqSyHQoFockxCWux",
+    "prediction": "rain",
+    "actual": [
+      "sun protection",
+      "raining",
+      "raining",
+      "raining",
+      "raining",
+      "rain",
+      "its raining",
+      "rain",
+      "rain",
+      "raining soon"
+    ]
+  },
+  "CVVWeSyTpmWdozRWra6qbu": {
+    "question_id": "CVVWeSyTpmWdozRWra6qbu",
+    "prediction": "kitchen",
+    "actual": [
+      "city",
+      "italy",
+      "kitchen",
+      "dinning table",
+      "judaism",
+      "kitchen",
+      "kitchen",
+      "small kitchen",
+      "united states",
+      "kitchen"
+    ]
+  },
+  "Cr6fmmEARGDPSbQvpNN4xY": {
+    "question_id": "Cr6fmmEARGDPSbQvpNN4xY",
+    "prediction": "one",
+    "actual": [
+      "zero",
+      "zero",
+      "one",
+      "unknown",
+      "none",
+      "indeterminate",
+      "one",
+      "zero",
+      "one",
+      "one"
+    ]
+  },
+  "CrTrpTaqCFB2AYxne8FFyw": {
+    "question_id": "CrTrpTaqCFB2AYxne8FFyw",
+    "prediction": "motorcycle",
+    "actual": [
+      "motorcycle",
+      "motorcycles",
+      "motorcycle",
+      "motorcycles",
+      "motorcycle",
+      "motorcycles",
+      "motorcycles",
+      "motorcycles",
+      "motorcycles",
+      "motorcycle"
+    ]
+  },
+  "DKLAWnnRuvz8p7UrHGzQzK": {
+    "question_id": "DKLAWnnRuvz8p7UrHGzQzK",
+    "prediction": "airport",
+    "actual": [
+      "airport",
+      "airport",
+      "airport",
+      "airport baggage",
+      "airport",
+      "airport",
+      "airport baggage",
+      "airport",
+      "airport",
+      "airport"
+    ]
+  },
+  "DYEPfA4NaMDK8Dj5qW7AAE": {
+    "question_id": "DYEPfA4NaMDK8Dj5qW7AAE",
+    "prediction": "living room",
+    "actual": [
+      "living room",
+      "living room",
+      "living room",
+      "living room",
+      "living room",
+      "living room",
+      "bedroom",
+      "living room",
+      "living room",
+      "living room"
+    ]
+  },
+  "E9Tea7kyCg7eW4bPeT5W83": {
+    "question_id": "E9Tea7kyCg7eW4bPeT5W83",
+    "prediction": "beer",
+    "actual": [
+      "beer",
+      "beer",
+      "wine",
+      "beer",
+      "beer",
+      "beer",
+      "beer",
+      "wine glasses",
+      "beer",
+      "beer"
+    ]
+  },
+  "EAHmczQURaep8SJkvhYCje": {
+    "question_id": "EAHmczQURaep8SJkvhYCje",
+    "prediction": "fence",
+    "actual": [
+      "fence",
+      "fence",
+      "dog",
+      "fence",
+      "fence",
+      "fence",
+      "fence",
+      "wired fence",
+      "fencing",
+      "fence"
+    ]
+  },
+  "EAWGdocBoaqPxLQuJ3UJb6": {
+    "question_id": "EAWGdocBoaqPxLQuJ3UJb6",
+    "prediction": "winter",
+    "actual": [
+      "spring",
+      "fall-winter",
+      "fall",
+      "winter",
+      "winter",
+      "fall",
+      "winter",
+      "fall",
+      "fall",
+      "fall"
+    ]
+  },
+  "EDFzCznf6oQmdpV8T8S7vU": {
+    "question_id": "EDFzCznf6oQmdpV8T8S7vU",
+    "prediction": "two",
+    "actual": [
+      "two",
+      "two",
+      "two",
+      "two",
+      "three",
+      "two",
+      "two",
+      "three",
+      "three",
+      "three"
+    ]
+  },
+  "Eyzb8SKxYzzJuegL3tkwga": {
+    "question_id": "Eyzb8SKxYzzJuegL3tkwga",
+    "prediction": "cotton",
+    "actual": [
+      "cotton",
+      "cotton",
+      "paper",
+      "fabric",
+      "cotton",
+      "cotton",
+      "cotton",
+      "cotton",
+      "fabric",
+      "cotton"
+    ]
+  },
+  "FCACCnmERAWpKikUkfc5jV": {
+    "question_id": "FCACCnmERAWpKikUkfc5jV",
+    "prediction": "white",
+    "actual": [
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "cream",
+      "white",
+      "white"
+    ]
+  },
+  "FFw7axjcwgXQxHygov52fm": {
+    "question_id": "FFw7axjcwgXQxHygov52fm",
+    "prediction": "skateboard",
+    "actual": [
+      "camera",
+      "camera",
+      "skateboard",
+      "camera",
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "skateboard",
+      "camera",
+      "camera"
+    ]
+  },
+  "FddDsTHeVp9WJYZBjLoKUi": {
+    "question_id": "FddDsTHeVp9WJYZBjLoKUi",
+    "prediction": "water",
+    "actual": [
+      "engine",
+      "motor",
+      "water",
+      "oil",
+      "water",
+      "roadways",
+      "road",
+      "water",
+      "on wheel",
+      "water"
+    ]
+  },
+  "FrMujHaugfA8T2uMPEkckf": {
+    "question_id": "FrMujHaugfA8T2uMPEkckf",
+    "prediction": "rain",
+    "actual": [
+      "water",
+      "rain",
+      "ocean",
+      "ocean",
+      "wind",
+      "ocean",
+      "water",
+      "rain",
+      "rain",
+      "rain"
+    ]
+  },
+  "Fv2hy4qfFdd847B3xEcPz3": {
+    "question_id": "Fv2hy4qfFdd847B3xEcPz3",
+    "prediction": "dirt",
+    "actual": [
+      "dirt",
+      "grass",
+      "grass",
+      "sands",
+      "grass",
+      "flat ground",
+      "grassy",
+      "dirt",
+      "grassy",
+      "dirt"
+    ]
+  },
+  "G5UFNWEn9cZH66apuAaxQj": {
+    "question_id": "G5UFNWEn9cZH66apuAaxQj",
+    "prediction": "morning",
+    "actual": [
+      "day",
+      "morning maybe",
+      "afternoon",
+      "morning",
+      "late afternoon",
+      "morning",
+      "morning",
+      "midday",
+      "midday",
+      "daytime"
+    ]
+  },
+  "G9KXrAd6oRksj8Jqd5hcyo": {
+    "question_id": "G9KXrAd6oRksj8Jqd5hcyo",
+    "prediction": "serve",
+    "actual": [
+      "overhead",
+      "overhand",
+      "overhand",
+      "tennis",
+      "serve",
+      "overhead",
+      "serve",
+      "overhead",
+      "overhead slam",
+      "serve"
+    ]
+  },
+  "GTZGtuDSqd76CSi8NDrEKx": {
+    "question_id": "GTZGtuDSqd76CSi8NDrEKx",
+    "prediction": "road",
+    "actual": [
+      "mountain",
+      "road",
+      "mountain",
+      "mountain",
+      "road",
+      "road",
+      "street",
+      "road",
+      "road",
+      "road"
+    ]
+  },
+  "GoBun4WYj2oK6vRihjfEGv": {
+    "question_id": "GoBun4WYj2oK6vRihjfEGv",
+    "prediction": "wine",
+    "actual": [
+      "wine",
+      "wine",
+      "wine",
+      "red wine",
+      "wine",
+      "wine",
+      "wine",
+      "wine",
+      "wine",
+      "wine"
+    ]
+  },
+  "Gr2guph9meudkWEM6Gbpwr": {
+    "question_id": "Gr2guph9meudkWEM6Gbpwr",
+    "prediction": "gas",
+    "actual": [
+      "joyous",
+      "electric",
+      "electricity",
+      "gas",
+      "oven",
+      "gas",
+      "gas",
+      "heat",
+      "gas",
+      "gas"
+    ]
+  },
+  "GuEXoRNmgAED6SJqUXtHhA": {
+    "question_id": "GuEXoRNmgAED6SJqUXtHhA",
+    "prediction": "cows",
+    "actual": [
+      "cows",
+      "cow",
+      "cow",
+      "cows",
+      "cows",
+      "cows",
+      "cows",
+      "cows",
+      "cows",
+      "cow"
+    ]
+  },
+  "GzEbcQExF4cHmrhk7rdnce": {
+    "question_id": "GzEbcQExF4cHmrhk7rdnce",
+    "prediction": "wii",
+    "actual": [
+      "wii",
+      "nintendo wii",
+      "wii",
+      "wii",
+      "wii",
+      "nintendo wii",
+      "wii",
+      "nintendo wii",
+      "nintendo wii",
+      "wi"
+    ]
+  },
+  "H8KBdToKYoc2D9GPVE6mds": {
+    "question_id": "H8KBdToKYoc2D9GPVE6mds",
+    "prediction": "cap",
+    "actual": [
+      "cap",
+      "jaxon hat",
+      "cap",
+      "baseball cap",
+      "cap",
+      "newsboy cap",
+      "flat",
+      "flat",
+      "newsboy",
+      "newsboy"
+    ]
+  },
+  "HM4obw9fQyb3aPheZjgtqq": {
+    "question_id": "HM4obw9fQyb3aPheZjgtqq",
+    "prediction": "visibility",
+    "actual": [
+      "visibility safety",
+      "visibility",
+      "visibility",
+      "visibility",
+      "visibility",
+      "visibility",
+      "visibility",
+      "visibility",
+      "safety visibility",
+      "visibility"
+    ]
+  },
+  "JG6LR7gqcbcDvbrwYiZbnj": {
+    "question_id": "JG6LR7gqcbcDvbrwYiZbnj",
+    "prediction": "balance",
+    "actual": [
+      "maintain balance",
+      "balance",
+      "balance",
+      "playing",
+      "balance",
+      "balance",
+      "balance",
+      "to balance",
+      "balance",
+      "balance"
+    ]
+  },
+  "JK2iuDmUfAfGyyNaUnWZgK": {
+    "question_id": "JK2iuDmUfAfGyyNaUnWZgK",
+    "prediction": "fisheye",
+    "actual": [
+      "grayscale",
+      "fisheye",
+      "wide angle",
+      "fisheye",
+      "fisheye",
+      "wide angle",
+      "magnifying",
+      "fish eye",
+      "camera lens",
+      "fisheye"
+    ]
+  },
+  "JYWg9aVznMs3k9DbgYYj5a": {
+    "question_id": "JYWg9aVznMs3k9DbgYYj5a",
+    "prediction": "wilson",
+    "actual": [
+      "brand name",
+      "brand",
+      "brand name",
+      "wilson",
+      "corporation",
+      "maker",
+      "wilson",
+      "wilson company",
+      "wilson",
+      "wilson"
+    ]
+  },
+  "JrdpzYcvRc7YKAyviTTEWv": {
+    "question_id": "JrdpzYcvRc7YKAyviTTEWv",
+    "prediction": "equestrian",
+    "actual": [
+      "horseback rider",
+      "equestrianism",
+      "jockey",
+      "horse rider",
+      "equestrian",
+      "equestrian",
+      "rider",
+      "equestrian",
+      "jockey",
+      "esquestrian"
+    ]
+  },
+  "JuxtrucqNyPwRLsANkhiRw": {
+    "question_id": "JuxtrucqNyPwRLsANkhiRw",
+    "prediction": "asian",
+    "actual": [
+      "vietnamese",
+      "salad",
+      "mixed salt",
+      "chinese",
+      "thai",
+      "asian",
+      "egg rolls",
+      "asian",
+      "asian",
+      "asian"
+    ]
+  },
+  "KDt9uiMSWXdfqZg8DkfQYP": {
+    "question_id": "KDt9uiMSWXdfqZg8DkfQYP",
+    "prediction": "sleep",
+    "actual": [
+      "sleeping",
+      "sleep",
+      "sleep",
+      "sleeping",
+      "sleep",
+      "sleeping",
+      "sleeping",
+      "sleeping",
+      "sleep",
+      "sleeping"
+    ]
+  },
+  "KxDzK3TmVjHrd7PVRGf6AP": {
+    "question_id": "KxDzK3TmVjHrd7PVRGf6AP",
+    "prediction": "eating",
+    "actual": [
+      "eating",
+      "pizza",
+      "eating",
+      "cutting food",
+      "eat pizza",
+      "eating",
+      "to eat",
+      "hot food",
+      "eating",
+      "eating pizza"
+    ]
+  },
+  "LHeFhpiVsUvAjwDNWJQPfZ": {
+    "question_id": "LHeFhpiVsUvAjwDNWJQPfZ",
+    "prediction": "white",
+    "actual": [
+      "orange",
+      "white",
+      "white",
+      "white",
+      "orange",
+      "white",
+      "orange",
+      "orange blue",
+      "white",
+      "white"
+    ]
+  },
+  "LYvkz5jUWHpZYkZ8VhxESf": {
+    "question_id": "LYvkz5jUWHpZYkZ8VhxESf",
+    "prediction": "eat",
+    "actual": [
+      "dining",
+      "to relax",
+      "eat",
+      "eating",
+      "to eat",
+      "protection",
+      "eat",
+      "eat",
+      "beach",
+      "to rest"
+    ]
+  },
+  "NmKj6PbaycvbudUKgRzibs": {
+    "question_id": "NmKj6PbaycvbudUKgRzibs",
+    "prediction": "living room",
+    "actual": [
+      "living room",
+      "living room",
+      "on chair",
+      "living room",
+      "living room",
+      "living room",
+      "on chair",
+      "home",
+      "living room",
+      "living room"
+    ]
+  },
+  "NvwixocPuSU8e4uyGqdY9X": {
+    "question_id": "NvwixocPuSU8e4uyGqdY9X",
+    "prediction": "bathroom",
+    "actual": [
+      "public restroom",
+      "bathroom",
+      "bathroom",
+      "restroom",
+      "elevator",
+      "bathroom",
+      "bathroom",
+      "public restroom",
+      "bank",
+      "bathroom"
+    ]
+  },
+  "QXpLwCmcjZXSBHQULTdAXu": {
+    "question_id": "QXpLwCmcjZXSBHQULTdAXu",
+    "prediction": "frosting",
+    "actual": [
+      "icing",
+      "icing",
+      "cream",
+      "frosting",
+      "frosting",
+      "frosting",
+      "cream",
+      "frosting",
+      "cream",
+      "icing"
+    ]
+  },
+  "QaL6hj3FGdpRMLEAiN6aFY": {
+    "question_id": "QaL6hj3FGdpRMLEAiN6aFY",
+    "prediction": "raining",
+    "actual": [
+      "stay dry",
+      "raining",
+      "raining",
+      "raining",
+      "raining",
+      "rain",
+      "it's raining",
+      "rain protection",
+      "repelling rain",
+      "prevent rain"
+    ]
+  },
+  "QgbaJEnafjdsdWx5ReQAPn": {
+    "question_id": "QgbaJEnafjdsdWx5ReQAPn",
+    "prediction": "electricity",
+    "actual": [
+      "electricity",
+      "electricity",
+      "electric",
+      "magnetic force",
+      "electricity",
+      "electric",
+      "electric",
+      "electricity",
+      "electric",
+      "electricity"
+    ]
+  },
+  "R5zKF5LPj53tXkChG4Mq7M": {
+    "question_id": "R5zKF5LPj53tXkChG4Mq7M",
+    "prediction": "boat",
+    "actual": [
+      "boats",
+      "boat",
+      "bicycle",
+      "bike",
+      "boat",
+      "boat",
+      "bike",
+      "boat",
+      "boat",
+      "bike"
+    ]
+  },
+  "SpnBQjkqymWyZ5gEzPTwKu": {
+    "question_id": "SpnBQjkqymWyZ5gEzPTwKu",
+    "prediction": "cow",
+    "actual": [
+      "cow",
+      "cow",
+      "cow",
+      "cow",
+      "cows",
+      "cows",
+      "cows",
+      "cow",
+      "cows",
+      "cow"
+    ]
+  },
+  "Su4RjX7NpuDbXwjPMBxq9g": {
+    "question_id": "Su4RjX7NpuDbXwjPMBxq9g",
+    "prediction": "bus",
+    "actual": [
+      "bus",
+      "buses",
+      "bus",
+      "locomotive",
+      "busses",
+      "bus",
+      "busses",
+      "buses",
+      "bus",
+      "bus"
+    ]
+  },
+  "Tbna5Srgt6Jbg8hgADabX7": {
+    "question_id": "Tbna5Srgt6Jbg8hgADabX7",
+    "prediction": "white",
+    "actual": [
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white"
+    ]
+  },
+  "U3vN2kLcHwnX4WfdNGnvxW": {
+    "question_id": "U3vN2kLcHwnX4WfdNGnvxW",
+    "prediction": "ocean",
+    "actual": [
+      "ocean",
+      "sea",
+      "ocean",
+      "ocean",
+      "ocean",
+      "ocean",
+      "shore",
+      "ocean",
+      "shore",
+      "shore"
+    ]
+  },
+  "UPhByDxcyegyWfhgbrkTZD": {
+    "question_id": "UPhByDxcyegyWfhgbrkTZD",
+    "prediction": "phone",
+    "actual": [
+      "phone",
+      "phone",
+      "cellphone",
+      "phone",
+      "cellphone",
+      "phone",
+      "phone",
+      "cellphone",
+      "phone",
+      "cell phone"
+    ]
+  },
+  "US64WDYHmJ3UBhFuwDmcWM": {
+    "question_id": "US64WDYHmJ3UBhFuwDmcWM",
+    "prediction": "police",
+    "actual": [
+      "police",
+      "police officer",
+      "police officer",
+      "law enforcement",
+      "police",
+      "police",
+      "police officer",
+      "police officer",
+      "police",
+      "police"
+    ]
+  },
+  "UXR5X7hqtMs7BPFyniqscB": {
+    "question_id": "UXR5X7hqtMs7BPFyniqscB",
+    "prediction": "snowboarding",
+    "actual": [
+      "skiing snowboarding",
+      "snow boarding",
+      "snowboarding skiing",
+      "snowboarding",
+      "snowboarding",
+      "snowboarding",
+      "snowboarding",
+      "snowboarding",
+      "ski poles",
+      "winter sports"
+    ]
+  },
+  "UcdDMTu4br8uyQPYPQxgo6": {
+    "question_id": "UcdDMTu4br8uyQPYPQxgo6",
+    "prediction": "japan",
+    "actual": [
+      "japan",
+      "asia",
+      "asia",
+      "asia",
+      "japan",
+      "east asia",
+      "korea",
+      "singapore",
+      "japan",
+      "asia"
+    ]
+  },
+  "UpTNoSajrD27GvfoAdVnsC": {
+    "question_id": "UpTNoSajrD27GvfoAdVnsC",
+    "prediction": "four",
+    "actual": [
+      "four",
+      "seven",
+      "four",
+      "four",
+      "four",
+      "four",
+      "four",
+      "four",
+      "four",
+      "four"
+    ]
+  },
+  "V4VjJ3eNtgQnM7ZvF2S3iL": {
+    "question_id": "V4VjJ3eNtgQnM7ZvF2S3iL",
+    "prediction": "mother",
+    "actual": [
+      "mother",
+      "mother",
+      "mother",
+      "parent",
+      "mother",
+      "mother",
+      "parent",
+      "mother",
+      "mother",
+      "mother"
+    ]
+  },
+  "VAgkuyL7FuecBgmyumQ6oh": {
+    "question_id": "VAgkuyL7FuecBgmyumQ6oh",
+    "prediction": "sun",
+    "actual": [
+      "sun",
+      "sunrays",
+      "sunrays",
+      "sun",
+      "sun",
+      "sun",
+      "sun",
+      "sun",
+      "sunrays",
+      "sun"
+    ]
+  },
+  "VF8AXcb7aXEHcTu4ZWtQf6": {
+    "question_id": "VF8AXcb7aXEHcTu4ZWtQf6",
+    "prediction": "restaurant",
+    "actual": [
+      "restaurant",
+      "pizzeria",
+      "front entrance",
+      "supreme",
+      "restaurant",
+      "restaurant",
+      "pizzeria",
+      "pizza restaurant",
+      "pizza restaurant",
+      "restaurant"
+    ]
+  },
+  "VZg6oeEVpweNk9fihBXS8m": {
+    "question_id": "VZg6oeEVpweNk9fihBXS8m",
+    "prediction": "checkered",
+    "actual": [
+      "checkered",
+      "checked boxes",
+      "checkered",
+      "checkerboard",
+      "checkerboard",
+      "checkboard",
+      "checkerboard",
+      "checkered",
+      "checkerboard",
+      "checkerboard"
+    ]
+  },
+  "Va5KLsXWHujm6DtfGdHssS": {
+    "question_id": "Va5KLsXWHujm6DtfGdHssS",
+    "prediction": "afternoon",
+    "actual": [
+      "afternoon",
+      "two",
+      "afternoon",
+      "two",
+      "daytime",
+      "afternoon",
+      "afternoon",
+      "afternoon",
+      "afternoon",
+      "afternoon"
+    ]
+  },
+  "VeQ4KEc2qHLZTXoPaHX4sy": {
+    "question_id": "VeQ4KEc2qHLZTXoPaHX4sy",
+    "prediction": "skiing",
+    "actual": [
+      "skiing",
+      "skiing",
+      "skiing",
+      "skiing",
+      "skiing",
+      "skiing",
+      "ski racing",
+      "skiing",
+      "skiing",
+      "skiing"
+    ]
+  },
+  "WC8XQmunFHgUyN44J9vNQu": {
+    "question_id": "WC8XQmunFHgUyN44J9vNQu",
+    "prediction": "train",
+    "actual": [
+      "train",
+      "train",
+      "train",
+      "rail",
+      "train",
+      "train",
+      "train",
+      "train",
+      "train",
+      "train"
+    ]
+  },
+  "WRniXpa5KWfR7D85cwFASi": {
+    "question_id": "WRniXpa5KWfR7D85cwFASi",
+    "prediction": "wii",
+    "actual": [
+      "nintendo wii",
+      "wii",
+      "wii",
+      "wii",
+      "wii",
+      "nintendo wii",
+      "wii",
+      "nintendo wii",
+      "wii",
+      "nintendo wii"
+    ]
+  },
+  "WdswpNeyj4t9nbTqRVKKT9": {
+    "question_id": "WdswpNeyj4t9nbTqRVKKT9",
+    "prediction": "stir fry",
+    "actual": [
+      "saute",
+      "sautee",
+      "sautee",
+      "sautee",
+      "stir fry",
+      "stir fry",
+      "stir fry",
+      "frying",
+      "stir frying",
+      "stir fry"
+    ]
+  },
+  "Wz68Xn6EZYE34pM3RG2zNH": {
+    "question_id": "Wz68Xn6EZYE34pM3RG2zNH",
+    "prediction": "batter",
+    "actual": [
+      "batter",
+      "batter",
+      "pitcher",
+      "batter",
+      "longoria",
+      "batter",
+      "longoria",
+      "batter",
+      "batter",
+      "batter"
+    ]
+  },
+  "XAvbeZ5Rqjf9hb6eDnVNhQ": {
+    "question_id": "XAvbeZ5Rqjf9hb6eDnVNhQ",
+    "prediction": "summer",
+    "actual": [
+      "summer",
+      "autumn",
+      "spring",
+      "summer",
+      "summer",
+      "fall",
+      "fall",
+      "fall",
+      "fall",
+      "spring"
+    ]
+  },
+  "XogitwSQqMuD3ABqp25hgF": {
+    "question_id": "XogitwSQqMuD3ABqp25hgF",
+    "prediction": "street",
+    "actual": [
+      "parallel",
+      "street",
+      "street",
+      "parallel",
+      "street",
+      "street",
+      "parallel",
+      "street",
+      "street",
+      "street"
+    ]
+  },
+  "YcY4T8d3SVHEDD4nQJBypg": {
+    "question_id": "YcY4T8d3SVHEDD4nQJBypg",
+    "prediction": "tomato",
+    "actual": [
+      "tomato",
+      "tomato",
+      "tomato",
+      "tomato",
+      "tomato",
+      "tomato",
+      "tomato",
+      "tomato",
+      "tomato",
+      "tomato"
+    ]
+  },
+  "YkmMkPR5sqwoebanrtJNBw": {
+    "question_id": "YkmMkPR5sqwoebanrtJNBw",
+    "prediction": "wire",
+    "actual": [
+      "barbed wire",
+      "wire fence",
+      "barb wire",
+      "bricks",
+      "wire",
+      "wire",
+      "smooth wire",
+      "wired",
+      "wire",
+      "wire"
+    ]
+  },
+  "YkoPwAEMfgMqGRxLyzEXpz": {
+    "question_id": "YkoPwAEMfgMqGRxLyzEXpz",
+    "prediction": "breakfast",
+    "actual": [
+      "dinner",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "breakfast",
+      "breakfast",
+      "breakfast",
+      "lunch",
+      "breakfast",
+      "dinner"
+    ]
+  },
+  "ZVHGXacRAzycGJbvaZL6WW": {
+    "question_id": "ZVHGXacRAzycGJbvaZL6WW",
+    "prediction": "lake",
+    "actual": [
+      "lake",
+      "lake",
+      "lake",
+      "lake",
+      "lake",
+      "lake",
+      "lake",
+      "lake",
+      "lake",
+      "lake"
+    ]
+  },
+  "ZfTC6zzHXSMikD2CDbSrJn": {
+    "question_id": "ZfTC6zzHXSMikD2CDbSrJn",
+    "prediction": "plaid",
+    "actual": [
+      "checker",
+      "plaid",
+      "plaid",
+      "plaid",
+      "flannel",
+      "casual",
+      "plaid",
+      "plaid",
+      "plaid",
+      "plaid"
+    ]
+  },
+  "Zhx4M3xfkZGgH4dnopMrY2": {
+    "question_id": "Zhx4M3xfkZGgH4dnopMrY2",
+    "prediction": "eating",
+    "actual": [
+      "eating",
+      "snapshot eating",
+      "to eat",
+      "eating",
+      "selfie pose",
+      "eating",
+      "eating",
+      "eating",
+      "eating",
+      "eating"
+    ]
+  },
+  "aC77EkAro3tybKmAJPUAH4": {
+    "question_id": "aC77EkAro3tybKmAJPUAH4",
+    "prediction": "helmet",
+    "actual": [
+      "helmet",
+      "helmet",
+      "helmet",
+      "helmet",
+      "angrily",
+      "protection",
+      "safety",
+      "helmet",
+      "helmet",
+      "helmet"
+    ]
+  },
+  "aXA73vtTRAUJ79PHaVuhF8": {
+    "question_id": "aXA73vtTRAUJ79PHaVuhF8",
+    "prediction": "cake",
+    "actual": [
+      "cake",
+      "cake",
+      "cake",
+      "cake",
+      "cake",
+      "cake",
+      "metal",
+      "cake",
+      "cake",
+      "metal"
+    ]
+  },
+  "admjQXJJsLpbcEdRVyvVsf": {
+    "question_id": "admjQXJJsLpbcEdRVyvVsf",
+    "prediction": "dirt",
+    "actual": [
+      "sand",
+      "dirt",
+      "mud",
+      "dirt",
+      "mud",
+      "mud",
+      "mud",
+      "mud",
+      "sand",
+      "dirt"
+    ]
+  },
+  "b57dJ74KfRbDSDzkD8bSWJ": {
+    "question_id": "b57dJ74KfRbDSDzkD8bSWJ",
+    "prediction": "usa",
+    "actual": [
+      "usa",
+      "england",
+      "united kingdom",
+      "england",
+      "united states",
+      "america",
+      "england",
+      "england",
+      "usa",
+      "usa"
+    ]
+  },
+  "bDXLr8CDvR6oDCL2xMHV3v": {
+    "question_id": "bDXLr8CDvR6oDCL2xMHV3v",
+    "prediction": "cheese",
+    "actual": [
+      "margherita",
+      "cheese",
+      "cheese",
+      "cheese",
+      "neapolitan pizza",
+      "cheese",
+      "cheese",
+      "cheese spinach",
+      "cheese",
+      "margarita"
+    ]
+  },
+  "bTRUSAypEjzP5XWNW954RK": {
+    "question_id": "bTRUSAypEjzP5XWNW954RK",
+    "prediction": "living room",
+    "actual": [
+      "living room",
+      "family room",
+      "living room",
+      "living room",
+      "home",
+      "residential",
+      "living room",
+      "livingroom",
+      "living room",
+      "living room"
+    ]
+  },
+  "bkDub4yWQqeZVboUxpBCAd": {
+    "question_id": "bkDub4yWQqeZVboUxpBCAd",
+    "prediction": "bathroom",
+    "actual": [
+      "restroom",
+      "bathroom",
+      "restroom",
+      "restroom",
+      "bathroom",
+      "bathroom",
+      "restroom",
+      "restroom",
+      "restroom",
+      "restroom"
+    ]
+  },
+  "bmXjvk9NznKw8jyhjjZuqi": {
+    "question_id": "bmXjvk9NznKw8jyhjjZuqi",
+    "prediction": "plastic",
+    "actual": [
+      "plastic",
+      "toy parts",
+      "plastic",
+      "plastic",
+      "plastic",
+      "pork",
+      "plastic",
+      "plastic",
+      "plastic",
+      "plastic"
+    ]
+  },
+  "bp87frxTcBx6bA7KtzDFp7": {
+    "question_id": "bp87frxTcBx6bA7KtzDFp7",
+    "prediction": "street",
+    "actual": [
+      "street",
+      "in road",
+      "in street",
+      "street",
+      "street",
+      "street",
+      "street",
+      "street",
+      "migrating",
+      "destination"
+    ]
+  },
+  "c4kK8bzsKvVyN2KzoAkKpT": {
+    "question_id": "c4kK8bzsKvVyN2KzoAkKpT",
+    "prediction": "love",
+    "actual": [
+      "love",
+      "love",
+      "hands",
+      "affection",
+      "love",
+      "love",
+      "romantic",
+      "arousal",
+      "love",
+      "show kind"
+    ]
+  },
+  "cpFBV7cMfv53fdwaaWiWGt": {
+    "question_id": "cpFBV7cMfv53fdwaaWiWGt",
+    "prediction": "refrigerator",
+    "actual": [
+      "kitchen",
+      "refrigerator",
+      "refrigerator",
+      "refrigerator",
+      "fridge",
+      "refrigerator",
+      "fridge",
+      "fridge",
+      "fridge",
+      "refrigerator"
+    ]
+  },
+  "da6PS4adVsfrcADUNQ8GMx": {
+    "question_id": "da6PS4adVsfrcADUNQ8GMx",
+    "prediction": "two",
+    "actual": [
+      "two",
+      "one",
+      "two",
+      "two",
+      "two",
+      "three",
+      "two",
+      "two",
+      "two",
+      "two"
+    ]
+  },
+  "dohJioF4j23dw6b8AgCxqx": {
+    "question_id": "dohJioF4j23dw6b8AgCxqx",
+    "prediction": "backhand",
+    "actual": [
+      "backhand",
+      "return",
+      "backhand",
+      "backhand",
+      "backhand",
+      "backhand",
+      "backhand",
+      "return",
+      "forehand",
+      "backhand"
+    ]
+  },
+  "dpTTTMowgDYptWd2YZdUT7": {
+    "question_id": "dpTTTMowgDYptWd2YZdUT7",
+    "prediction": "down",
+    "actual": [
+      "downhill",
+      "down",
+      "downwards",
+      "downward",
+      "down",
+      "down hill",
+      "downhill",
+      "down",
+      "downhill",
+      "down"
+    ]
+  },
+  "e52REttPVvHxGe9H9Y8iya": {
+    "question_id": "e52REttPVvHxGe9H9Y8iya",
+    "prediction": "usa",
+    "actual": [
+      "usa",
+      "usa",
+      "united states",
+      "usa",
+      "usa",
+      "usa",
+      "usa",
+      "usa",
+      "usa",
+      "usa"
+    ]
+  },
+  "eiLeNz2CFKYS7AFZDXrKEM": {
+    "question_id": "eiLeNz2CFKYS7AFZDXrKEM",
+    "prediction": "school",
+    "actual": [
+      "school",
+      "school",
+      "class",
+      "school class",
+      "school",
+      "class",
+      "school",
+      "school class",
+      "school",
+      "school age"
+    ]
+  },
+  "epWz8dQzRohUWmTphUjt4p": {
+    "question_id": "epWz8dQzRohUWmTphUjt4p",
+    "prediction": "fire",
+    "actual": [
+      "fire",
+      "firewood",
+      "fire",
+      "fire",
+      "fire",
+      "fireplace",
+      "fire",
+      "fire",
+      "fire",
+      "smoke"
+    ]
+  },
+  "f5DyWHCeTdLVN7kHd8zguE": {
+    "question_id": "f5DyWHCeTdLVN7kHd8zguE",
+    "prediction": "rain",
+    "actual": [
+      "it's raining",
+      "raining",
+      "rain",
+      "rainy day",
+      "its raining",
+      "raining",
+      "raining",
+      "rain",
+      "rain",
+      "raining"
+    ]
+  },
+  "f8zgqNptbviU5cyJpQKege": {
+    "question_id": "f8zgqNptbviU5cyJpQKege",
+    "prediction": "laptop",
+    "actual": [
+      "laptop",
+      "laptop",
+      "laptop",
+      "laptop",
+      "laptop",
+      "laptop",
+      "laptop",
+      "laptop",
+      "laptop",
+      "laptop"
+    ]
+  },
+  "f98CKzuCeHPRkbQSvQ8DWn": {
+    "question_id": "f98CKzuCeHPRkbQSvQ8DWn",
+    "prediction": "for sale",
+    "actual": [
+      "to sell",
+      "for sale",
+      "sale",
+      "for sale",
+      "for sale",
+      "for sale",
+      "for sale",
+      "for sale",
+      "for sale",
+      "sale"
+    ]
+  },
+  "fVuz8FFvFG4BEFRwzT5Ppg": {
+    "question_id": "fVuz8FFvFG4BEFRwzT5Ppg",
+    "prediction": "balance",
+    "actual": [
+      "maintaining balance",
+      "hailing cab",
+      "balance himself",
+      "for balance",
+      "walking",
+      "for balance",
+      "balance",
+      "balance",
+      "balance",
+      "carrying"
+    ]
+  },
+  "fgF7yNqEPZiNszHnQZKkxU": {
+    "question_id": "fgF7yNqEPZiNszHnQZKkxU",
+    "prediction": "glasses",
+    "actual": [
+      "hat",
+      "glasses",
+      "hats",
+      "glasses",
+      "glasses",
+      "wearing glass",
+      "glasses",
+      "glasses",
+      "glasses",
+      "glasses"
+    ]
+  },
+  "fjqDSmg3254rQUdBJujxZy": {
+    "question_id": "fjqDSmg3254rQUdBJujxZy",
+    "prediction": "europe",
+    "actual": [
+      "britain",
+      "europe",
+      "europe",
+      "italy",
+      "europe",
+      "europe",
+      "european",
+      "europe",
+      "europe",
+      "europe"
+    ]
+  },
+  "gbDHb3RPHzKdwPsEQP6vxs": {
+    "question_id": "gbDHb3RPHzKdwPsEQP6vxs",
+    "prediction": "usa",
+    "actual": [
+      "usa",
+      "usa",
+      "us",
+      "america",
+      "united states",
+      "usa",
+      "usa",
+      "united states",
+      "usa",
+      "usa"
+    ]
+  },
+  "hB2doqSEEeky2XNUEHdz79": {
+    "question_id": "hB2doqSEEeky2XNUEHdz79",
+    "prediction": "grass",
+    "actual": [
+      "grass",
+      "grass",
+      "grass",
+      "grass",
+      "grass",
+      "grass",
+      "grass",
+      "field",
+      "grass",
+      "grass"
+    ]
+  },
+  "hJe5wYuE8Qr9uuzc9zahBx": {
+    "question_id": "hJe5wYuE8Qr9uuzc9zahBx",
+    "prediction": "bus",
+    "actual": [
+      "bus",
+      "bus",
+      "bus",
+      "city bus",
+      "bus",
+      "bus",
+      "passenger",
+      "bus",
+      "bus",
+      "bus"
+    ]
+  },
+  "hSrHK8kZfrc6tZgTB7yMmW": {
+    "question_id": "hSrHK8kZfrc6tZgTB7yMmW",
+    "prediction": "kitchen",
+    "actual": [
+      "kitchen",
+      "commercial kitchen",
+      "utility room",
+      "kitchen",
+      "kitchen",
+      "kitchen",
+      "kitchen",
+      "utility room",
+      "utility room",
+      "kitchen"
+    ]
+  },
+  "hmfuC58r3K4Yg7EkMxJXXb": {
+    "question_id": "hmfuC58r3K4Yg7EkMxJXXb",
+    "prediction": "potatoes",
+    "actual": [
+      "potatoes",
+      "potatoes",
+      "potatoes",
+      "potatoes",
+      "potato",
+      "potato",
+      "potato",
+      "potatoes",
+      "potato",
+      "potatoes"
+    ]
+  },
+  "iepNGdTWvJFnPbHVTuKmLw": {
+    "question_id": "iepNGdTWvJFnPbHVTuKmLw",
+    "prediction": "sailboat",
+    "actual": [
+      "sailboats",
+      "sailboat",
+      "sailboat",
+      "sailing vessel",
+      "sailboat",
+      "sail",
+      "sail",
+      "sailboat",
+      "fishing",
+      "sailboat"
+    ]
+  },
+  "inA8DF895bDbH7gLhXnenH": {
+    "question_id": "inA8DF895bDbH7gLhXnenH",
+    "prediction": "nike",
+    "actual": [
+      "nike",
+      "tennis shoes",
+      "tennis",
+      "tennis",
+      "tennis shoes",
+      "tennis",
+      "nike",
+      "nike",
+      "nike",
+      "tennis"
+    ]
+  },
+  "j3G4tBe5ga2sVPS2yWYbFM": {
+    "question_id": "j3G4tBe5ga2sVPS2yWYbFM",
+    "prediction": "serve",
+    "actual": [
+      "return serve",
+      "serve ball",
+      "return serve",
+      "serve",
+      "hit ball",
+      "catch",
+      "serve",
+      "serve",
+      "return serve",
+      "retrieve ball"
+    ]
+  },
+  "j4usZ4NoJf62hcBq4GCBc7": {
+    "question_id": "j4usZ4NoJf62hcBq4GCBc7",
+    "prediction": "chinese",
+    "actual": [
+      "japanese",
+      "chinese",
+      "asian",
+      "chinese",
+      "asian",
+      "stirfry",
+      "chinese",
+      "chinese",
+      "chinese",
+      "asian"
+    ]
+  },
+  "j6q58xPaDShNBgnj2kKpAP": {
+    "question_id": "j6q58xPaDShNBgnj2kKpAP",
+    "prediction": "beach",
+    "actual": [
+      "on beach",
+      "beach",
+      "beach",
+      "beach",
+      "beach",
+      "beach",
+      "beach",
+      "sand",
+      "near sea",
+      "on beach"
+    ]
+  },
+  "jJtrzZ4RRXKH8SSVmgw8tp": {
+    "question_id": "jJtrzZ4RRXKH8SSVmgw8tp",
+    "prediction": "field",
+    "actual": [
+      "field",
+      "savannah",
+      "field",
+      "field",
+      "wild",
+      "wildanimal parks",
+      "field",
+      "savannah",
+      "desert",
+      "field"
+    ]
+  },
+  "jQLQXdTab2NMEr4CHskSjQ": {
+    "question_id": "jQLQXdTab2NMEr4CHskSjQ",
+    "prediction": "motorcycle",
+    "actual": [
+      "moped",
+      "motorcycle",
+      "motorcycles",
+      "motorcycle",
+      "motorcycles",
+      "motorcycles",
+      "motorcycle",
+      "motorcycles",
+      "motorcycles",
+      "motorcycle"
+    ]
+  },
+  "ja6pMKAxBoEM6Q9tvtsmMA": {
+    "question_id": "ja6pMKAxBoEM6Q9tvtsmMA",
+    "prediction": "metal",
+    "actual": [
+      "metal",
+      "metal",
+      "aluminum",
+      "porcelain",
+      "metal",
+      "metal",
+      "aluminum",
+      "metal",
+      "metal",
+      "metal"
+    ]
+  },
+  "k8y3RfpAYmSuXDkcpiDQrx": {
+    "question_id": "k8y3RfpAYmSuXDkcpiDQrx",
+    "prediction": "skiing",
+    "actual": [
+      "laughing",
+      "posing",
+      "skiing",
+      "posing",
+      "skiing",
+      "skiing",
+      "skiing",
+      "skiing",
+      "smiling",
+      "skiing"
+    ]
+  },
+  "kZWuYe4HefJH33d7GCb4Tk": {
+    "question_id": "kZWuYe4HefJH33d7GCb4Tk",
+    "prediction": "chinese",
+    "actual": [
+      "japanese",
+      "chinese",
+      "asian",
+      "chinese",
+      "asia",
+      "chinese",
+      "china",
+      "chinese",
+      "chinese food",
+      "asian"
+    ]
+  },
+  "kpuykmWTony3CofsE8S8Dt": {
+    "question_id": "kpuykmWTony3CofsE8S8Dt",
+    "prediction": "new york",
+    "actual": [
+      "new york",
+      "nyc",
+      "new york",
+      "boston",
+      "new york",
+      "new york",
+      "new york",
+      "new york",
+      "new york",
+      "new york"
+    ]
+  },
+  "m2mA48VKETDDYeJKgD5qSx": {
+    "question_id": "m2mA48VKETDDYeJKgD5qSx",
+    "prediction": "family",
+    "actual": [
+      "reunion",
+      "potluck",
+      "thanksgiving",
+      "family",
+      "family",
+      "family gathering",
+      "family",
+      "holiday meal",
+      "dinner",
+      "family"
+    ]
+  },
+  "m8XZ5DnesmzfsjwMhMsbfe": {
+    "question_id": "m8XZ5DnesmzfsjwMhMsbfe",
+    "prediction": "sauce",
+    "actual": [
+      "sauce",
+      "crust",
+      "cheese",
+      "tomato sauce",
+      "sauce",
+      "sauce",
+      "tomato sauce",
+      "dough",
+      "sauce",
+      "tomato sauce"
+    ]
+  },
+  "mNNi2tGdk9CvAdHYyZekG9": {
+    "question_id": "mNNi2tGdk9CvAdHYyZekG9",
+    "prediction": "outside",
+    "actual": [
+      "outdoor",
+      "outside",
+      "home garden",
+      "back yard",
+      "backyard",
+      "outside",
+      "outdoors",
+      "outdoors",
+      "outdoor picnic",
+      "outside"
+    ]
+  },
+  "mQ5TJVLswrNGGP3La64Erc": {
+    "question_id": "mQ5TJVLswrNGGP3La64Erc",
+    "prediction": "grazing",
+    "actual": [
+      "grazing",
+      "eating",
+      "feeding",
+      "grazing",
+      "grazing",
+      "grazing",
+      "grazing",
+      "grazing",
+      "grazing",
+      "grazing"
+    ]
+  },
+  "mXqJFvpNahd3xSBSMLqk9M": {
+    "question_id": "mXqJFvpNahd3xSBSMLqk9M",
+    "prediction": "tomato sauce",
+    "actual": [
+      "marinara sauce",
+      "grease",
+      "tomato sauce",
+      "sauce",
+      "red sauce",
+      "tomato sauce",
+      "sauce",
+      "tomato sauce",
+      "tomato sauce",
+      "pizza"
+    ]
+  },
+  "ma7Jzg4NKgXtp5cBVh4kFP": {
+    "question_id": "ma7Jzg4NKgXtp5cBVh4kFP",
+    "prediction": "hotel",
+    "actual": [
+      "bedroom",
+      "bedroom",
+      "bedroom",
+      "hotel room",
+      "bedroom",
+      "hotel",
+      "hotel",
+      "bedroom",
+      "hotel",
+      "bedroom"
+    ]
+  },
+  "mcfejYn8zoagoF5VgNuR2F": {
+    "question_id": "mcfejYn8zoagoF5VgNuR2F",
+    "prediction": "wine",
+    "actual": [
+      "wine",
+      "wine",
+      "red wine",
+      "wine",
+      "wine",
+      "wine",
+      "wine",
+      "red wine",
+      "wine",
+      "red wine"
+    ]
+  },
+  "n2V3ufCHusHxHg3doMLfoT": {
+    "question_id": "n2V3ufCHusHxHg3doMLfoT",
+    "prediction": "skiing",
+    "actual": [
+      "fell",
+      "skiing",
+      "falling",
+      "skiing",
+      "falling",
+      "fell down",
+      "skiing",
+      "scatting sceir",
+      "fell down",
+      "fell"
+    ]
+  },
+  "nbKEZAsRQ7mimyjkQYFn6d": {
+    "question_id": "nbKEZAsRQ7mimyjkQYFn6d",
+    "prediction": "fire",
+    "actual": [
+      "fire",
+      "fire department",
+      "fire department",
+      "fire department",
+      "fire",
+      "fire department",
+      "fire department",
+      "fire",
+      "fire",
+      "fire"
+    ]
+  },
+  "nif2rWzKpmykkka2moeA3e": {
+    "question_id": "nif2rWzKpmykkka2moeA3e",
+    "prediction": "riding",
+    "actual": [
+      "riding elephant",
+      "riding",
+      "riding",
+      "riding them",
+      "riding training",
+      "riding",
+      "riding",
+      "five",
+      "riding",
+      "riding"
+    ]
+  },
+  "npMJUgqcniPJuZPEh7mP3t": {
+    "question_id": "npMJUgqcniPJuZPEh7mP3t",
+    "prediction": "water",
+    "actual": [
+      "water",
+      "water",
+      "boat",
+      "dock",
+      "dock",
+      "buoys",
+      "boat",
+      "boat",
+      "ocean",
+      "water"
+    ]
+  },
+  "o7YUWt5CppEBSMU9tUszUZ": {
+    "question_id": "o7YUWt5CppEBSMU9tUszUZ",
+    "prediction": "rain",
+    "actual": [
+      "rain",
+      "rainy day",
+      "rainy day",
+      "rainy day",
+      "rain",
+      "rain",
+      "rain",
+      "rain",
+      "rain",
+      "rain"
+    ]
+  },
+  "o9UdSvT8pgAVAQCkm8XPdz": {
+    "question_id": "o9UdSvT8pgAVAQCkm8XPdz",
+    "prediction": "river",
+    "actual": [
+      "river",
+      "canal",
+      "canal",
+      "canal",
+      "river",
+      "canal",
+      "canal",
+      "river",
+      "canal",
+      "venice canal"
+    ]
+  },
+  "TCqWeX5SXeeUmMjqkWnbSz": {
+    "question_id": "TCqWeX5SXeeUmMjqkWnbSz",
+    "prediction": "remote",
+    "actual": [
+      "remote control",
+      "remote",
+      "remote",
+      "remote",
+      "remote",
+      "remote",
+      "remote control",
+      "tv remote",
+      "remote control",
+      "remote"
+    ]
+  },
+  "b6kMEJD9bLnsJksyGqZgcR": {
+    "question_id": "b6kMEJD9bLnsJksyGqZgcR",
+    "prediction": "united states",
+    "actual": [
+      "united states",
+      "united states",
+      "america",
+      "usa",
+      "america",
+      "united states",
+      "united states",
+      "united states",
+      "usa",
+      "usa"
+    ]
+  },
+  "Kn65sKCZq6EBQWNdQB469p": {
+    "question_id": "Kn65sKCZq6EBQWNdQB469p",
+    "prediction": "banana",
+    "actual": [
+      "big bananas",
+      "banana",
+      "banana",
+      "bananas",
+      "banana",
+      "banana shop",
+      "banana",
+      "banana",
+      "banana",
+      "banana"
+    ]
+  }
+}

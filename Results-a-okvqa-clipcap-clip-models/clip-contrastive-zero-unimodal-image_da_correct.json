@@ -1,0 +1,242 @@
+{
+  "3zxLUD8FPcCLJWYsG7h2KY": {
+    "question_id": "3zxLUD8FPcCLJWYsG7h2KY",
+    "prediction": "kitchen",
+    "actual": [
+      "home",
+      "domestic kitchen",
+      "kitchen",
+      "kitchen",
+      "kitchen",
+      "home",
+      "hostel",
+      "kitchen",
+      "kitchen",
+      "home kitchen"
+    ]
+  },
+  "4jnshoBeGDGmRjspTuvr29": {
+    "question_id": "4jnshoBeGDGmRjspTuvr29",
+    "prediction": "dirt bikes",
+    "actual": [
+      "motorcycle",
+      "motorcycles",
+      "dirt bikes",
+      "motorcycles",
+      "motorbikes",
+      "motorcycle",
+      "dirtbike",
+      "dirt bikes",
+      "motorcycles",
+      "dirt bikes"
+    ]
+  },
+  "5Re4MQxw5XwLbQQzqQVZcV": {
+    "question_id": "5Re4MQxw5XwLbQQzqQVZcV",
+    "prediction": "soup",
+    "actual": [
+      "vegetable",
+      "soup",
+      "soup",
+      "soup",
+      "spinach",
+      "salad",
+      "lettuce",
+      "soup",
+      "drinks",
+      "vegetables"
+    ]
+  },
+  "74CMNF7KTeAFsXza5GJLGb": {
+    "question_id": "74CMNF7KTeAFsXza5GJLGb",
+    "prediction": "school bus",
+    "actual": [
+      "school bus",
+      "school bus",
+      "school",
+      "school bus",
+      "school",
+      "school bus",
+      "school",
+      "school",
+      "school",
+      "school bus"
+    ]
+  },
+  "B725pHrrknZKDAqoLBjeof": {
+    "question_id": "B725pHrrknZKDAqoLBjeof",
+    "prediction": "apple",
+    "actual": [
+      "apple",
+      "apple",
+      "apple",
+      "apple",
+      "apple",
+      "apple",
+      "apple",
+      "apple",
+      "apple",
+      "apple"
+    ]
+  },
+  "BaNWccWHEXHgtdo2h5795T": {
+    "question_id": "BaNWccWHEXHgtdo2h5795T",
+    "prediction": "stop sign",
+    "actual": [
+      "stop sign",
+      "traffic",
+      "stop",
+      "stop",
+      "stop sign",
+      "stop",
+      "stop",
+      "stop",
+      "stop sign",
+      "stop sign"
+    ]
+  },
+  "XogitwSQqMuD3ABqp25hgF": {
+    "question_id": "XogitwSQqMuD3ABqp25hgF",
+    "prediction": "street",
+    "actual": [
+      "parallel",
+      "street",
+      "street",
+      "parallel",
+      "street",
+      "street",
+      "parallel",
+      "street",
+      "street",
+      "street"
+    ]
+  },
+  "Z5xx32ZiWMMosQmfjqKaGC": {
+    "question_id": "Z5xx32ZiWMMosQmfjqKaGC",
+    "prediction": "hotel room",
+    "actual": [
+      "bedroom",
+      "hotel suite",
+      "hotel room",
+      "motel",
+      "hotel room",
+      "bed room",
+      "hotel room",
+      "hotel room",
+      "hotel room",
+      "hotel"
+    ]
+  },
+  "eNrkV5MyWHSeR6F7jbf3Fm": {
+    "question_id": "eNrkV5MyWHSeR6F7jbf3Fm",
+    "prediction": "remotes",
+    "actual": [
+      "remotes",
+      "remote",
+      "remote controls",
+      "remotes",
+      "remotes",
+      "remote controls",
+      "tv remotes",
+      "remote",
+      "tv remotes",
+      "remotes"
+    ]
+  },
+  "eTzxabUHi9XjTeaAKr9nz2": {
+    "question_id": "eTzxabUHi9XjTeaAKr9nz2",
+    "prediction": "airport",
+    "actual": [
+      "station",
+      "airport",
+      "airport",
+      "airport",
+      "airport",
+      "airport",
+      "airport",
+      "airport",
+      "shopping mall",
+      "airport"
+    ]
+  },
+  "hikczeyros8C4QajTVYThj": {
+    "question_id": "hikczeyros8C4QajTVYThj",
+    "prediction": "frisbees",
+    "actual": [
+      "frisbees",
+      "frisbee",
+      "frisbees",
+      "frisbee",
+      "frisbee",
+      "frisbee",
+      "frisbees",
+      "frisbee",
+      "frisbees",
+      "frisbees"
+    ]
+  },
+  "jDicosLUWpypTQmQkRhC4W": {
+    "question_id": "jDicosLUWpypTQmQkRhC4W",
+    "prediction": "top hat",
+    "actual": [
+      "top",
+      "top hat",
+      "top hat",
+      "fedora",
+      "top hat",
+      "top hat",
+      "top hat",
+      "tophat",
+      "top hat",
+      "fedora"
+    ]
+  },
+  "kHb4MjmU3bZTRY5qJSrZe7": {
+    "question_id": "kHb4MjmU3bZTRY5qJSrZe7",
+    "prediction": "forehand",
+    "actual": [
+      "backhand",
+      "tennis",
+      "tennis ball",
+      "forehand",
+      "right hand",
+      "forehand",
+      "forehand",
+      "backhand",
+      "swing",
+      "forehand"
+    ]
+  },
+  "n3EWd223KWajDuTgFCGZmw": {
+    "question_id": "n3EWd223KWajDuTgFCGZmw",
+    "prediction": "refrigerator",
+    "actual": [
+      "refrigerator",
+      "fridge",
+      "fridge",
+      "fridge",
+      "fridge",
+      "fridge",
+      "refrigerator",
+      "fridge",
+      "refrigerator",
+      "fridge"
+    ]
+  },
+  "Y4KDhiu2MeKojYumTWRevx": {
+    "question_id": "Y4KDhiu2MeKojYumTWRevx",
+    "prediction": "jet bridge",
+    "actual": [
+      "gate",
+      "tunnel",
+      "jetway",
+      "jetway",
+      "jet bridge",
+      "portable door",
+      "jet bridge",
+      "jet bridge",
+      "rubber",
+      "boarding bridge"
+    ]
+  }
+}
