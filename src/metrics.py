@@ -24,4 +24,4 @@ def _da_accuracy(preds: list[str], refs: list[list[str]]):
     """
     Compute Direct Answer Accuracy
     """
-    return sum([min(ref.count(pred)/3, 1) for pred, ref in zip(preds, refs)]) / len(preds)
+    return sum([1 if ref.count(pred) >= 3 else 0 for pred, ref in zip(preds, refs)]) / len(preds)

@@ -1,34 +1,19 @@
-{"qid": "8KqQoveNzvvZSgxxPeepUY", "da": "bus", "mc": "red bus"}
-{"qid": "99VEZ5bvSGBLWtkpJiAAXg", "da": "eating", "mc": "eating"}
-{"qid": "9TJtRYnGa8xr8CF67M5Mof", "da": "cat", "mc": "cats"}
-{"qid": "BaNWccWHEXHgtdo2h5795T", "da": "stop", "mc": "traffic"}
-{"qid": "E7LafAUEeJM9NiMjemXwRW", "da": "zebra", "mc": "zebra"}
-{"qid": "FrMujHaugfA8T2uMPEkckf", "da": "rain", "mc": "ocean"}
-{"qid": "TAwFJVcYrztESePxFhSyAt", "da": "baseball", "mc": "rugby ball"}
-{"qid": "TgnxoGn2URnSnsnWhniwQ9", "da": "dog", "mc": "dogs"}
-{"qid": "UcdDMTu4br8uyQPYPQxgo6", "da": "japan", "mc": "south america"}
-{"qid": "VsmuTZR6c3jEmk2x73KvRf", "da": "baseball", "mc": "football"}
-{"qid": "Zhx4M3xfkZGgH4dnopMrY2", "da": "eating", "mc": "to eat"}
-{"qid": "cpFBV7cMfv53fdwaaWiWGt", "da": "fridge", "mc": "kitchen"}
-{"qid": "edgUrxZbEmJboFbFUdBdCm", "da": "bat", "mc": "baseball bat"}
-{"qid": "eiTuwtpwaP6LXCBDdhRfUU", "da": "pizza", "mc": "grill"}
-{"qid": "f8zgqNptbviU5cyJpQKege", "da": "laptop", "mc": "laptop"}
-{"qid": "j3G4tBe5ga2sVPS2yWYbFM", "da": "serve", "mc": "serve"}
-{"qid": "kzYUWLK5ajb3LRzgYcCFXc", "da": "parking", "mc": "parking"}
-{"qid": "nSKBbRdixLP5o5mr8W2VBJ", "da": "bus", "mc": "car"}
-{"qid": "o7YUWt5CppEBSMU9tUszUZ", "da": "rain", "mc": "rain"}
 {"qid": "22jbM6gDxdaMaunuzgrsBB", "da": "three", "mc": "toothpick"}
 {"qid": "2Aq5RiEn7eyfWjEbpuYT2o", "da": "water", "mc": "thirty"}
 {"qid": "2Br4bJfKY7SQM9DECrqqeG", "da": "three", "mc": "frozen"}
 {"qid": "2C8riXpRLX3CyM5jDz23m7", "da": "japan", "mc": "ice cream"}
 {"qid": "2DQex53EkNGH2cfo3WPuPn", "da": "unknown", "mc": "mobile phone"}
+{"qid": "2GhdXLaZFBYHSip4rvYKfK", "da": "", "mc": "devil"}
 {"qid": "2LCLpdpD3yy2dgH5tQbcFe", "da": "unknown", "mc": "painting nails"}
+{"qid": "2N5sYXgyFqbDnuUhJFAWr5", "da": "", "mc": "crowded"}
 {"qid": "2P5mVJc5a6DcCN9opV92FJ", "da": "rocks", "mc": "flying"}
 {"qid": "2PGwvdFESLvwfFCwK5pbYu", "da": "three", "mc": "linen"}
 {"qid": "2RN4dwhRZR3ZSKHtRnJdX3", "da": "refrigerator", "mc": "mexico"}
 {"qid": "2U3SiXdyEgJBHNThL4YbPz", "da": "pizza", "mc": "table"}
+{"qid": "2UqDdmoKsLVD4Vt2qeMFds", "da": "safety", "mc": "car"}
 {"qid": "2YfYkRjcnnsVzjycPehWPA", "da": "pizza", "mc": "lettuce"}
 {"qid": "2etjUMchktfSY5fgGg5msL", "da": "glass", "mc": "herbal tea"}
+{"qid": "2gD7ih9AsXq7BmRBn57jv5", "da": "", "mc": "jersey"}
 {"qid": "2oPzCyj5FjrKtBLjGZH2rF", "da": "pizza", "mc": "american"}
 {"qid": "2rC38fZh4n6ZXcyrUEKukj", "da": "unknown", "mc": "books"}
 {"qid": "2sUggWn8qBk97E38wKpjN5", "da": "clock", "mc": "noon"}
@@ -41,7 +26,9 @@
 {"qid": "34ah8AmQenWUyH2fZvJH7a", "da": "rocks", "mc": "swim resort"}
 {"qid": "399Vdu2QjamF3vheUvbRg2", "da": "two", "mc": "air"}
 {"qid": "39CcpmwATuiwiZLZo3XMuv", "da": "three", "mc": "left"}
+{"qid": "3R6SnZ4MRGXXvao5ARVE8e", "da": "", "mc": "police"}
 {"qid": "3SKKn3bQ4xhiDpkesifdod", "da": "reading", "mc": "china"}
+{"qid": "3X8TsFBRS7mBsBbyFDzRdb", "da": "", "mc": "pepperoni"}
 {"qid": "3asRExdxmWQtJw4sv49AGZ", "da": "safety", "mc": "closed doors"}
 {"qid": "3cCvfCWnLfrmqYEaFzb2Xm", "da": "three", "mc": "fair"}
 {"qid": "3echacwmLBUByWpjh85Mfv", "da": "unknown", "mc": "white bag"}
@@ -50,6 +37,7 @@
 {"qid": "3qnvp3XRGpc5L6RMhRZ3gg", "da": "light", "mc": "body wash"}
 {"qid": "3vbWi2p7C9SSUHWSdbMYbE", "da": "tv", "mc": "wii football"}
 {"qid": "3w3DT989GgT6yjqurjvmt6", "da": "catch ball", "mc": "dodge ball"}
+{"qid": "3wvvpLQuiKWmKy5RHKESEC", "da": "", "mc": "eating them"}
 {"qid": "3zxLUD8FPcCLJWYsG7h2KY", "da": "one", "mc": "garage"}
 {"qid": "455nQuaxbURN5ofLfbCqfq", "da": "savanna", "mc": "savanna"}
 {"qid": "45ZJiwQ8E4sqUTyJSUzEN3", "da": "sheep", "mc": "plastic"}
@@ -60,7 +48,10 @@
 {"qid": "4H7KMfvPvCTSvtf8Uyp55D", "da": "ball", "mc": "keeping score"}
 {"qid": "4HXTUJHey3SSzuoE66yHKi", "da": "jump", "mc": "tie dyed"}
 {"qid": "4PvLY9C3GyARH3WSGYbYFq", "da": "broccoli", "mc": "european"}
+{"qid": "4U4iSWxvXv9RtE6V9KpxJo", "da": "", "mc": "phone number"}
 {"qid": "4UrYfZMUToiF5f7GK6eMaz", "da": "waiting", "mc": "dress code"}
+{"qid": "4XAzPXBEk6aZHFvdPTKdjH", "da": "", "mc": "tackling"}
+{"qid": "4YdWSrT4x9p78GxJhf6vis", "da": "waiting", "mc": "children"}
 {"qid": "4YvFMFoDw46kzXhajSgc9W", "da": "carrot", "mc": "to eat"}
 {"qid": "4Z7WvuLTj7VUpVtLL2W2g7", "da": "three", "mc": "bathroom"}
 {"qid": "4cdYbJFFeKXJr6LbKgcxTa", "da": "japan", "mc": "city"}
@@ -74,6 +65,7 @@
 {"qid": "4xBq7ak8qCE92z8vddKXtu", "da": "three", "mc": "north"}
 {"qid": "4yd2xqYxWenwSYEucHnNXR", "da": "right", "mc": "france"}
 {"qid": "4yq3AnREQ4PP7MXMWvBb5a", "da": "cake", "mc": "christmas"}
+{"qid": "578p2wBoYH5uozEuVypCEw", "da": "elephant", "mc": "elephant"}
 {"qid": "5AhBQW2ucGSwJbPTtXHTFd", "da": "blue", "mc": "cars"}
 {"qid": "5LTzpByXwsWGViYAXqiVEX", "da": "bat", "mc": "bats"}
 {"qid": "5NysKUokKJcrFfUcBbr9Vo", "da": "safety", "mc": "swimming"}
@@ -85,7 +77,9 @@
 {"qid": "5XBmJitjSm9g7SQqNxYpe7", "da": "waiting", "mc": "table"}
 {"qid": "5Y5u3gnReRQbzkRnGw5ywd", "da": "three", "mc": "asphalt"}
 {"qid": "5aRkxnYoakzDQFyDGb9qJ2", "da": "safety", "mc": "eva green"}
+{"qid": "5aXXZiPUcUzScs2do5tjYs", "da": "", "mc": "drawn"}
 {"qid": "5cNGmGcUxJP7rwHnc6BXrs", "da": "boat", "mc": "cabin"}
+{"qid": "5fDUuYWCZMudfXVEPywFYc", "da": "", "mc": "phoebe tonkin"}
 {"qid": "5gQSkSh2eK3ZZ8bEyweBiA", "da": "three", "mc": "shop"}
 {"qid": "5jGPL4u8JFHkLyQCG354uG", "da": "red", "mc": "flag"}
 {"qid": "5oBisjqVjcXEXGkd2uKPDe", "da": "home", "mc": "phone"}
@@ -97,7 +91,9 @@
 {"qid": "66abRGQG535WgzgU5Ue9ru", "da": "dog", "mc": "home"}
 {"qid": "6EzruBdkEgwx74NmrhoyBV", "da": "light", "mc": "candle"}
 {"qid": "6FKSZrTS9wzHwnKasBSfdP", "da": "pizza", "mc": "cooking"}
+{"qid": "6GNHDAUJnk4GUrW6x4AJwF", "da": "zebra", "mc": "grass"}
 {"qid": "6HizsyvwUgduwabP2dWha5", "da": "light", "mc": "sunlight"}
+{"qid": "6J2yw53YiEDoNpMSt9mSsC", "da": "", "mc": "single person"}
 {"qid": "6LfBvcynQvD7BaU3CCvfNG", "da": "spring", "mc": "house"}
 {"qid": "6Ps8BgA4pbvK4eKToCDQqu", "da": "light", "mc": "lamp"}
 {"qid": "6Qf2MxVMdHGnxrEZ3xGn7Q", "da": "boat", "mc": "tsunami"}
@@ -131,6 +127,7 @@
 {"qid": "7NXz8t4QzQWvJzpHqfPzRw", "da": "helmet", "mc": "taking photos"}
 {"qid": "7NbKNXQWBYJ8HTRo2J8CoU", "da": "pizza", "mc": "shirt"}
 {"qid": "7NxakvvZZEHKsh8MbNHHvz", "da": "unknown", "mc": "martini glass"}
+{"qid": "7Q2MqmLkDhRu93vhjMPJXJ", "da": "three", "mc": "tennis"}
 {"qid": "7RjA6a3CFR8w5fVRc8Arji", "da": "pizza", "mc": "vegetarian"}
 {"qid": "7ViVwUt2pnJxqcZoeTc4TR", "da": "three", "mc": "bananas"}
 {"qid": "7VodQFaYKxhUwQ5tpFSkRo", "da": "chocolate", "mc": "juice"}
@@ -148,6 +145,7 @@
 {"qid": "87sGM3r7nnhwncMAKMtbuo", "da": "jump", "mc": "computer monitor"}
 {"qid": "8HQ9sy9TdK4XZffkkhmtRW", "da": "elephant", "mc": "tusks"}
 {"qid": "8KFq64eMdw4qeAp2JXe96r", "da": "waiting", "mc": "waiting room"}
+{"qid": "8KqQoveNzvvZSgxxPeepUY", "da": "bus", "mc": "red bus"}
 {"qid": "8LVHUcGX7daYbXPh59c8pW", "da": "pilot", "mc": "airplane"}
 {"qid": "8MMdCgrej5iBZ7PitRYrt3", "da": "three", "mc": "suitcase"}
 {"qid": "8MrFkkmRAk7E8ccS8FPZ8S", "da": "elephant", "mc": "to groom"}
@@ -157,6 +155,7 @@
 {"qid": "8R6BwQYURjKQu4FPYr8TpL", "da": "bus", "mc": "new york"}
 {"qid": "8RDETmscMEEsHh6Sbekaa6", "da": "pizza", "mc": "crying"}
 {"qid": "8SzR5UpGtrsFWoxheZ9SkE", "da": "video game", "mc": "playstation 4"}
+{"qid": "8a5uCKsjUC9vtK2i7Amh28", "da": "", "mc": "spider bite"}
 {"qid": "8dWqzZJR3MvHHSGAAzAEJy", "da": "mirror", "mc": "insurance"}
 {"qid": "8enBCTrMj57db8JVq9wyPq", "da": "pizza", "mc": "chocolate"}
 {"qid": "8k5Wnk4jb9ZzTN8EHrqNS3", "da": "laptop", "mc": "pencils"}
@@ -168,10 +167,12 @@
 {"qid": "8vnLAkEcA5mAC66h59f4dE", "da": "right", "mc": "probably yes"}
 {"qid": "8vuMQFQGMNiU6TcoNUNe2U", "da": "unknown", "mc": "street sign"}
 {"qid": "8vzpRWS6dDNrFCouzebMm9", "da": "three", "mc": "xbox one"}
+{"qid": "8w7GuH4PjCommJcwHaGge6", "da": "", "mc": "lot"}
 {"qid": "8xMtKKAZ5RHWjwMgCuYjWV", "da": "pizza", "mc": "pepperoni"}
 {"qid": "92HRqF8nimMzat2iydhLAj", "da": "unknown", "mc": "kicking"}
 {"qid": "93rpK9LLNQ8xmAPrEGm3rv", "da": "dogs", "mc": "plastic"}
 {"qid": "99Ra8z27K9FLU2u5acKAqp", "da": "light", "mc": "water"}
+{"qid": "99VEZ5bvSGBLWtkpJiAAXg", "da": "eating", "mc": "eating"}
 {"qid": "9Fvp6un9Bh9va6z5nz9k74", "da": "waiting", "mc": "medical"}
 {"qid": "9HoQP5bpke2rstGjD8AG7Y", "da": "fridge", "mc": "dishwasher"}
 {"qid": "9J5n2f4j4R4B9t3c6MPSi3", "da": "broccoli", "mc": "broccoli"}
@@ -180,8 +181,10 @@
 {"qid": "9PZxoQZCdEn8VijhqTfENe", "da": "pizza", "mc": "knife"}
 {"qid": "9R6ddmMNiye654hqqPZ2eE", "da": "japan", "mc": "prevent fire"}
 {"qid": "9R9Ef5J6eaJzSHvUEkBkgq", "da": "japan", "mc": "panda"}
+{"qid": "9TJtRYnGa8xr8CF67M5Mof", "da": "cat", "mc": "cats"}
 {"qid": "9TbmZ3Qq4paDv4AUeXpLEm", "da": "firefighter", "mc": "paint"}
 {"qid": "9VR7RNoJkVj6AWsYtwpDz7", "da": "three", "mc": "obese"}
+{"qid": "9Vcrsyxf2zbSBauWavQbju", "da": "", "mc": "right"}
 {"qid": "9WmbdtPjrRDvD7yeHYr55d", "da": "skating", "mc": "polka dots"}
 {"qid": "9ZB4WcL9Sbo3L6ZPkaqzKY", "da": "pizza", "mc": "three"}
 {"qid": "9agpK8NJBKhb2vcWiKXRi7", "da": "unknown", "mc": "water"}
@@ -192,21 +195,28 @@
 {"qid": "9sqHw3RioVzmBGcxbMqBDM", "da": "bat", "mc": "blue"}
 {"qid": "9v2zVc4N5db5pVtYvrVEeD", "da": "parking", "mc": "water"}
 {"qid": "9wkHkHDXGGtbJwvLAcXSVs", "da": "airplane", "mc": "dryer"}
+{"qid": "9y2mxyvd3BxHofPfXKjG67", "da": "microwave", "mc": "time"}
 {"qid": "9zfgVSEG4hrKHfuoe4tHqx", "da": "jump", "mc": "spend time"}
 {"qid": "A2uU9gQWJp8Z3LJePdL9u8", "da": "right", "mc": "chinese"}
 {"qid": "A2yJNQmbyDNtQEq4b2EZWx", "da": "three", "mc": "horseback"}
 {"qid": "A3zGJC9ryU4EkHzywEGdJn", "da": "pizza", "mc": "juice"}
+{"qid": "A4pTVyj6FszUQtpyuwuEs2", "da": "", "mc": "food"}
 {"qid": "A7MATFYMiNxpWLN7ucoWmS", "da": "restaurant", "mc": "kitchen"}
+{"qid": "A9Pk4Az2eRMuSEgB8GnUBU", "da": "", "mc": "history"}
 {"qid": "ACMY4KCmBjXQNimvG4dJhA", "da": "pizza", "mc": "three"}
 {"qid": "ADSaLsXSNftfMMYWMKKqCS", "da": "light", "mc": "right"}
 {"qid": "AGorRcu8xFxfMHzdj6nxuV", "da": "red", "mc": "water"}
 {"qid": "AHYLVWQ4whMVkWeDJiisi9", "da": "orange", "mc": "beach"}
 {"qid": "AJvjHZ5SF3hD6C3eYniXsc", "da": "waiting", "mc": "transportation"}
 {"qid": "ANKUidMb7wYYN6GuJ8eERw", "da": "video games", "mc": "office"}
+{"qid": "ANzKkT7BMAmz62TWUSbPNn", "da": "bat", "mc": "home run"}
 {"qid": "APKEVGn8hXAWmsWYxQQukD", "da": "light", "mc": "sun"}
+{"qid": "AQQMsV5n7NGgths6DjtJcH", "da": "", "mc": "soft"}
 {"qid": "AR5jScMLqmYDjzmKHxKzMT", "da": "safety", "mc": "tea party"}
+{"qid": "AScfHhLUR7uPGS4TV6VpbN", "da": "", "mc": "to hit"}
 {"qid": "AXvcbZSCWScQ9hb4hjB4si", "da": "nintendo wii", "mc": "spiderman"}
 {"qid": "AYNy264QNVzJ6rgeCkW4SU", "da": "baseball", "mc": "throw ball"}
+{"qid": "AhrmUB8LFNXLkpiLGaaAuY", "da": "", "mc": "wave"}
 {"qid": "AiqztJZtJ4dNX7XYnu8rYU", "da": "horse", "mc": "cow"}
 {"qid": "Ar8D5FwKT47LcGDqJXXLjK", "da": "jump", "mc": "sell them"}
 {"qid": "AvSkehQk4bMedgX65PDsAj", "da": "unknown", "mc": "white board"}
@@ -214,6 +224,8 @@
 {"qid": "AyYa5v5HCXAjDeLXgP2CN5", "da": "japan", "mc": "pictures"}
 {"qid": "B725pHrrknZKDAqoLBjeof", "da": "dog", "mc": "orange"}
 {"qid": "B89EaRFhsoHzAy55JKCZJJ", "da": "pizza", "mc": "90"}
+{"qid": "B97VhjPyWdn4pXT5SvQybF", "da": "street", "mc": "sugar"}
+{"qid": "B9XREx57Gw3BhJfjEg9yib", "da": "", "mc": "cargo bus"}
 {"qid": "BECCJDkBDxrjtJNK7NGXQH", "da": "pizza", "mc": "tomato"}
 {"qid": "BJxwGHyivgHAjykCUoSUXo", "da": "orange", "mc": "farm"}
 {"qid": "BNpoJaz9Qu7KQ87FoFfRab", "da": "horse", "mc": "racing"}
@@ -224,6 +236,7 @@
 {"qid": "BSgG9C63esRw6W3Tw6rBbu", "da": "jump", "mc": "motorcycle"}
 {"qid": "BUpdAEWaMUZK8AKRzy3vBQ", "da": "pizza", "mc": "other kids"}
 {"qid": "BWmRhAFKF4KHK6QqPKS5Q3", "da": "green", "mc": "water"}
+{"qid": "BaNWccWHEXHgtdo2h5795T", "da": "stop", "mc": "traffic"}
 {"qid": "BhVeP3bxgcP5SjZLEfrm9y", "da": "three", "mc": "badminton"}
 {"qid": "Bja27MQDKfkiPDd5iSER6Q", "da": "baseball", "mc": "missed"}
 {"qid": "Bp5VwMuky5fXJPzp54X6XE", "da": "unknown", "mc": "travel"}
@@ -236,6 +249,7 @@
 {"qid": "C4iGaNrPm4zXWRgxL2XdRF", "da": "laptop", "mc": "breakfast"}
 {"qid": "C5KFJtK2qiQ2gMC5WNsdnB", "da": "competition", "mc": "customers"}
 {"qid": "C9AXp35Pm8iw5MANqbWmyR", "da": "nintendo wii", "mc": "game"}
+{"qid": "CCVav8uwNeAerpwiN2jbcx", "da": "pizza", "mc": "fried"}
 {"qid": "CKSUnA8f2e4FZyu5pXFuhm", "da": "laptop", "mc": "three"}
 {"qid": "CKj2DmTDPa2HMKUvU9d6RN", "da": "green", "mc": "motorcycle"}
 {"qid": "CKoy38QkqTRSirL8yyeimY", "da": "pizza", "mc": "wooden"}
@@ -245,10 +259,14 @@
 {"qid": "CTrTbwL2BtnQqY9vjiEiFF", "da": "reading", "mc": "wine"}
 {"qid": "CTzwocs3uGc2GjPFZG425g", "da": "japan", "mc": "russia"}
 {"qid": "CVVWeSyTpmWdozRWra6qbu", "da": "three", "mc": "farm"}
+{"qid": "CY5ZZbpJFTLSwMbjGybzpS", "da": "three", "mc": "emergency exit"}
 {"qid": "CYVZymNaQk6gd79AKNefqh", "da": "kite", "mc": "sideways"}
 {"qid": "CZgeF3Cuso4bf9DbbmxZan", "da": "three", "mc": "woman"}
 {"qid": "CcD6HgxREVqanqLnSysBTr", "da": "sprinkles", "mc": "cheesy"}
 {"qid": "Ce788SudmyHCPCCvyXs2kW", "da": "unknown", "mc": "shanghai"}
+{"qid": "CfaSzNgDy23yuC4X55XVmn", "da": "three", "mc": "playing hockey"}
+{"qid": "ChoLNyVYCocjeYqDJQYMoe", "da": "", "mc": "skateboarding"}
+{"qid": "CijjLDFS7tQM9TcoWMr2Ai", "da": "unknown", "mc": "liquidation"}
 {"qid": "CjTrsVaGpA8tU9gav5uAkC", "da": "pizza", "mc": "peanut"}
 {"qid": "Cr6fmmEARGDPSbQvpNN4xY", "da": "refrigerator", "mc": "four"}
 {"qid": "CrTrpTaqCFB2AYxne8FFyw", "da": "pizza", "mc": "car"}
@@ -261,6 +279,8 @@
 {"qid": "D7y9SSbRuVzVfJGiAinTx3", "da": "left", "mc": "ice picks"}
 {"qid": "DAEcXR5DWNgEcEVRqA4xFS", "da": "light", "mc": "blend food"}
 {"qid": "DC3qACi5rhmWU8XzM5Vdvy", "da": "safety", "mc": "blue car"}
+{"qid": "DD26xWreRvVu7ZDimAYL3e", "da": "baseball", "mc": "sixteen"}
+{"qid": "DD4oNBRHkHMzFGGVpdmrJi", "da": "japan", "mc": "feet"}
 {"qid": "DKLAWnnRuvz8p7UrHGzQzK", "da": "waiting", "mc": "airport"}
 {"qid": "DMGGczBdJRXHqZitoXSjSy", "da": "surfboard", "mc": "to sit"}
 {"qid": "DNGTUpUeLqmbKUNNns3kZs", "da": "unknown", "mc": "10 inch"}
@@ -274,6 +294,7 @@
 {"qid": "DbQuf7wY2JtaK4aonapJXt", "da": "japan", "mc": "playing basketball"}
 {"qid": "DbTAWKt7kZTzG8Xsa36K6R", "da": "three", "mc": "packages"}
 {"qid": "DcKwtSxfdjTch9RvAuEpNH", "da": "three", "mc": "residential"}
+{"qid": "DdkfCj4NDiSSSVhqbtwCY2", "da": "unknown", "mc": "style"}
 {"qid": "DhYoususnAa6GHBnV7UkZ7", "da": "waiting", "mc": "phone"}
 {"qid": "DjXHKc7B4xBT6qMsDFXXjt", "da": "pizza", "mc": "birthday"}
 {"qid": "DpnK7HeBvBiVtVRCiDJxED", "da": "elephant", "mc": "red"}
@@ -283,6 +304,7 @@
 {"qid": "E2Vuut5upXHFFVxEk8kHvM", "da": "pizza", "mc": "friends"}
 {"qid": "E6oDJ9maBhuvp2wvnBXfCH", "da": "pizza", "mc": "knife"}
 {"qid": "E6vGrKzLTzqabYt55Ksc2N", "da": "right", "mc": "probably yes"}
+{"qid": "E7LafAUEeJM9NiMjemXwRW", "da": "zebra", "mc": "zebra"}
 {"qid": "E9JLQaGpyoZudcYaQCrzvA", "da": "pizza", "mc": "toilet"}
 {"qid": "E9Tea7kyCg7eW4bPeT5W83", "da": "pizza", "mc": "beer"}
 {"qid": "EAHmczQURaep8SJkvhYCje", "da": "three", "mc": "mountains"}
@@ -310,6 +332,7 @@
 {"qid": "Eyzb8SKxYzzJuegL3tkwga", "da": "soap", "mc": "linen"}
 {"qid": "F3q8NaAw4x5Lc7KhdgvoDy", "da": "cat", "mc": "keyboard"}
 {"qid": "F5CqqWCtosWowj39Kchh9E", "da": "three", "mc": "domestic pet"}
+{"qid": "F8Df2XjGi87XQBkJNa79Ka", "da": "pizza", "mc": "bakery"}
 {"qid": "F92aSsSv7ZAtXnGBVREhqq", "da": "pizza", "mc": "snack"}
 {"qid": "FAgxg4yMBGCmnhc9FTTxyq", "da": "bat", "mc": "five"}
 {"qid": "FCACCnmERAWpKikUkfc5jV", "da": "pizza", "mc": "blue"}
@@ -332,6 +355,7 @@
 {"qid": "FpJmgAqdqfRjUe6axsFMhs", "da": "waiting", "mc": "cleaning"}
 {"qid": "Fq7RXZuYTk7pKt4gf6Fvm4", "da": "grass", "mc": "to catch"}
 {"qid": "Fr2NzFhfutw8k7CpoAGnW8", "da": "counter", "mc": "two"}
+{"qid": "FrMujHaugfA8T2uMPEkckf", "da": "rain", "mc": "ocean"}
 {"qid": "FtGwEGsss4Cqe38LrFBgj3", "da": "cat", "mc": "home"}
 {"qid": "Fu2ZLJDqhQqxBgT7KdAavf", "da": "light", "mc": "three"}
 {"qid": "Fv2hy4qfFdd847B3xEcPz3", "da": "three", "mc": "hilly"}
@@ -346,6 +370,7 @@
 {"qid": "GTZGtuDSqd76CSi8NDrEKx", "da": "three", "mc": "farm"}
 {"qid": "GYERWEzeTRB8TqAZXguSbG", "da": "unknown", "mc": "displaying wealth"}
 {"qid": "GaMNX53oAdZUoytgminHKh", "da": "wii", "mc": "grey"}
+{"qid": "Gd2FCTGcKM4yuJrprWpsyp", "da": "", "mc": "natural"}
 {"qid": "GfXMvDmY2rQYcnA8kLrFvf", "da": "pizza", "mc": "dog"}
 {"qid": "GhbDi6TH7F8tykDJvovapH", "da": "unknown", "mc": "time lapse"}
 {"qid": "GhbJVpKaUP7PmgNUiwq2VA", "da": "three", "mc": "purple"}
@@ -355,12 +380,15 @@
 {"qid": "Gr2guph9meudkWEM6Gbpwr", "da": "pizza", "mc": "gas"}
 {"qid": "GrkdG8hexJX5weRDGtgQNj", "da": "boats", "mc": "fishing"}
 {"qid": "GuEXoRNmgAED6SJqUXtHhA", "da": "three", "mc": "chicken"}
+{"qid": "Gv6voFmtsboJcuT7NppWmh", "da": "three", "mc": "rust"}
 {"qid": "GzEbcQExF4cHmrhk7rdnce", "da": "playing wii", "mc": "nintendo wii"}
 {"qid": "GzwDohFGAzDgkHBGFKfCTF", "da": "three", "mc": "letters"}
 {"qid": "GzzLtA4SHJS9ymFa6Zrw77", "da": "ball", "mc": "lob"}
+{"qid": "H4vJVSnFkLQaJVgHbJSVob", "da": "", "mc": "to transport"}
 {"qid": "H5BWeWuYriU6bmUwUPKtGE", "da": "pizza", "mc": "plastic"}
 {"qid": "H5ij2UADeZudHffAeLzw6z", "da": "sink", "mc": "microsoft"}
 {"qid": "H6NnKaLeBganALK78FdQq7", "da": "red", "mc": "united kingdom"}
+{"qid": "H6tcAFjWHYBPUpyvG5PVrv", "da": "fridge", "mc": "cool"}
 {"qid": "H7Pz5njX8cDqfXoLU546ym", "da": "unknown", "mc": "paris"}
 {"qid": "H7QnkgRHJJYQpjyyG3Szfc", "da": "three", "mc": "rubber band"}
 {"qid": "H84RC5rtsFPxCmNS27jbHf", "da": "street", "mc": "food"}
@@ -397,6 +425,7 @@
 {"qid": "JTpPkML3VmfSm8yQwMycuL", "da": "unknown", "mc": "angry"}
 {"qid": "JUxJmYmJuhcFMBwKdHRTj9", "da": "light", "mc": "historical european"}
 {"qid": "JYWg9aVznMs3k9DbgYYj5a", "da": "hit ball", "mc": "school"}
+{"qid": "Jd5ZtcGspbFr8SHETgpt53", "da": "", "mc": "round"}
 {"qid": "Jo6cB9daaqeW3nwSc3Sv6E", "da": "three", "mc": "elephant"}
 {"qid": "JrdpzYcvRc7YKAyviTTEWv", "da": "bat", "mc": "jockey"}
 {"qid": "JuxtrucqNyPwRLsANkhiRw", "da": "pizza", "mc": "gourmet"}
@@ -409,8 +438,11 @@
 {"qid": "KA3cQWXpQhyGmzPKC9d7jv", "da": "bat", "mc": "playing baseball"}
 {"qid": "KADU4VuTNvJcaxfcuSWg5s", "da": "mirror", "mc": "iphone"}
 {"qid": "KDt9uiMSWXdfqZg8DkfQYP", "da": "waiting", "mc": "sleep"}
+{"qid": "KFfvmbMFji4jPLYSa72ghN", "da": "", "mc": "college"}
+{"qid": "KGhKWAGTj6kUsxSUHDH8t5", "da": "pizza", "mc": "glass"}
 {"qid": "KHUiovaE2ZgBkwbt2ADbaN", "da": "skating", "mc": "joy"}
 {"qid": "KJfQQQhNGQydZ2gdW6dv9A", "da": "pizza", "mc": "bread"}
+{"qid": "KMF7Ym9gSvVVJ5QoLtTpt6", "da": "", "mc": "ball"}
 {"qid": "KMYPv55YgBCMho3xHBu4GM", "da": "bus", "mc": "mexico"}
 {"qid": "KSBuivjEvKXo6nskDiHPRK", "da": "unknown", "mc": "meat"}
 {"qid": "KUFqsDY7LxQj86DWy5PV33", "da": "tv", "mc": "fall"}
@@ -421,6 +453,7 @@
 {"qid": "KeFdNUyaJPmnR7xeSiPs2u", "da": "pizza", "mc": "drinks"}
 {"qid": "Kg2epvxdD43djHjdN3HBEw", "da": "japan", "mc": "market"}
 {"qid": "KgfkfPqD2aDFJjnZh69oyM", "da": "three", "mc": "butt"}
+{"qid": "Kn65sKCZq6EBQWNdQB469p", "da": "light", "mc": "orange"}
 {"qid": "KpXGPyoqZUqo76FaqZuNXF", "da": "toilet", "mc": "dorm"}
 {"qid": "KqEeneEUHVnoFj9nRYLS3u", "da": "pizza", "mc": "brown"}
 {"qid": "KqHt4U8oRbES85WARzxU3R", "da": "unknown", "mc": "north america"}
@@ -453,6 +486,7 @@
 {"qid": "M7GYpdBrUzhDxznbhPebAi", "da": "elephant", "mc": "blue hawaiian"}
 {"qid": "MAH3KC3SWvoTum6Ja75hB3", "da": "three", "mc": "five"}
 {"qid": "MAPPrc68FM8HwQsJHE6W2q", "da": "laptop", "mc": "paper"}
+{"qid": "MAeoFJtYupeza6U6eeTWRc", "da": "eating", "mc": "cafe"}
 {"qid": "MDyjdP8Esi9N3eEpLVuwx7", "da": "throw", "mc": "balance"}
 {"qid": "MFcz9WFowTCRnWEpVdEfiJ", "da": "elephant", "mc": "water"}
 {"qid": "MLS7svNqmdHua7qB2dvKuq", "da": "pink", "mc": "world cup"}
@@ -461,6 +495,7 @@
 {"qid": "MRauFRDpB55J3mf5RKCbJH", "da": "orange", "mc": "painting walls"}
 {"qid": "MWDJi7QGHxkNj2dWNnzE6S", "da": "three", "mc": "fast"}
 {"qid": "MXNuoDzTufsnkH3TEQS9P3", "da": "england", "mc": "fashion"}
+{"qid": "MYWA3eAGfavXR4ehMz22fV", "da": "", "mc": "as punishment"}
 {"qid": "MajM5Byv84DD34XWtgDTEu", "da": "dog", "mc": "stray dog"}
 {"qid": "MdawSWWcrGZdyq4yMLZRMN", "da": "three", "mc": "theme park"}
 {"qid": "MdpQEymVqNWnxqPPxPXxvs", "da": "unknown", "mc": "c"}
@@ -468,6 +503,7 @@
 {"qid": "MgwZ9gzpwfp2xz2oGjemMc", "da": "trunk", "mc": "window"}
 {"qid": "MiavLRSwBYJp9ooFkFHjv6", "da": "broccoli", "mc": "meat eaters"}
 {"qid": "Mj2xTvTMWmPfD2AvR3cDQw", "da": "three", "mc": "horse"}
+{"qid": "MqCKsUbTPGQJxLL75tGc5F", "da": "", "mc": "50"}
 {"qid": "MrMKrCttovt9tvMyUYZytj", "da": "green", "mc": "food"}
 {"qid": "MtpJjmnfFfb8pD3fpbvCTq", "da": "unknown", "mc": "talking"}
 {"qid": "MuwkW3j4kYfEZXwWuicLjv", "da": "pizza", "mc": "toppings"}
@@ -479,9 +515,13 @@
 {"qid": "NFhBeZhrxD3NQADiCfwi92", "da": "chocolate", "mc": "big red"}
 {"qid": "NMaWJvLKEHntrF2zNxigMq", "da": "posing", "mc": "wrestle"}
 {"qid": "NQQEM9mH6viipfoP9kMC6v", "da": "japan", "mc": "royal people"}
+{"qid": "NRg96YBDgRbc5zFqdhKCC4", "da": "", "mc": "safety"}
+{"qid": "NYcTJoQKwAGgyi4FB5gAt8", "da": "", "mc": "to terrorize"}
+{"qid": "NaxFfMbXiDnFeK2TDQpBpL", "da": "", "mc": "private enterprise"}
 {"qid": "NkV76CMuvfSYK7MyjLeTKV", "da": "three", "mc": "accelerate"}
 {"qid": "NmKj6PbaycvbudUKgRzibs", "da": "refrigerator", "mc": "restaurant"}
 {"qid": "NqPZVF9F8iZ7nXWPUhFTXM", "da": "pizza", "mc": "chocolate"}
+{"qid": "NsLGudV3NNLiYhGjCqbw78", "da": "", "mc": "hugging"}
 {"qid": "NtLrgnLvk747vSc3scsUHn", "da": "light", "mc": "knight"}
 {"qid": "NvwixocPuSU8e4uyGqdY9X", "da": "posing", "mc": "office"}
 {"qid": "NxB3LACrQbQmimYNePAYyK", "da": "water", "mc": "eat"}
@@ -497,6 +537,7 @@
 {"qid": "PCU3paJyftQe8M3s4T6ZVd", "da": "mobile phone", "mc": "dirt"}
 {"qid": "PCavtGPpEZnoW3vRUb2vbM", "da": "right", "mc": "using laptop"}
 {"qid": "PGrM6kp6herk4ducZoyUUd", "da": "pizza", "mc": "knife"}
+{"qid": "PK5o4oqyymgbmrsrLkF2Hw", "da": "baseball", "mc": "new balance"}
 {"qid": "PPFTmUK9jTLmCYzJ8UK7Bf", "da": "light", "mc": "house"}
 {"qid": "PPGK4QYUUdYhLhBKKfPCp3", "da": "pizza", "mc": "carving"}
 {"qid": "PPGegcRPeAJZ58gfYTUAZH", "da": "carrot", "mc": "deli"}
@@ -509,6 +550,7 @@
 {"qid": "PbFfJju4rM4x4PzP9E3dmq", "da": "pizza", "mc": "chef"}
 {"qid": "PcWKJUYhqCiRRsF9ecidXy", "da": "cat", "mc": "snow"}
 {"qid": "PceZftPFbFZ7xbF3urpTvL", "da": "pizza", "mc": "one"}
+{"qid": "Pgr2EjnVJiyNjUnPs2qgkg", "da": "", "mc": "curiosity"}
 {"qid": "PhDYZ98CbMyiiLytoTmBh6", "da": "pizza", "mc": "cool"}
 {"qid": "PmWMsFgyX6apXWit2Z87aj", "da": "pizza", "mc": "magazine"}
 {"qid": "PrbWUDZrELd3nWMbQ72MSD", "da": "laptop", "mc": "ping pong"}
@@ -519,6 +561,7 @@
 {"qid": "Q7cdndwDheQypkx5d6WvbN", "da": "three", "mc": "doctor"}
 {"qid": "Q8qrsK2VxVXdM3LRKyhi5U", "da": "three", "mc": "opponent"}
 {"qid": "QBfzUChLwDv8fW2akWWDxP", "da": "truck", "mc": "dog"}
+{"qid": "QH2k6NnZ5DxMLEeQQF8net", "da": "three", "mc": "pear"}
 {"qid": "QJvRFzyGr6FEDrTqLohf7D", "da": "unknown", "mc": "parking meters"}
 {"qid": "QKSFmfG3S2PeXAuucEHUam", "da": "japan", "mc": "tokyo"}
 {"qid": "QMRwRh6Gcy2qkWbZajGUru", "da": "street", "mc": "stone"}
@@ -528,16 +571,22 @@
 {"qid": "QXpLwCmcjZXSBHQULTdAXu", "da": "three", "mc": "chocolate"}
 {"qid": "QaL6hj3FGdpRMLEAiN6aFY", "da": "japan", "mc": "showing off"}
 {"qid": "QaNQeaARotkH69bbZmrpuA", "da": "refrigerator", "mc": "glass"}
+{"qid": "QfzADtoknvheZQ3r9o4XWa", "da": "tennis", "mc": "in shape"}
 {"qid": "QgbaJEnafjdsdWx5ReQAPn", "da": "green", "mc": "gas"}
 {"qid": "QjpYU2U32pH2dPpPoDEreR", "da": "three", "mc": "yacht"}
 {"qid": "Qn9fw2mFC5bWG7CjQvir9s", "da": "japan", "mc": "change tracks"}
 {"qid": "Qpu4P46aupMV73vp2wmEGk", "da": "beer", "mc": "bar"}
 {"qid": "Qqu6VC6u393vD5MFN4nLKC", "da": "pizza", "mc": "cake"}
+{"qid": "QqviUwQkfAndzidCzfJFKS", "da": "street", "mc": "engine housing"}
 {"qid": "Qs2pN4dnREpNWB3Faxrwfy", "da": "laptop", "mc": "projection"}
 {"qid": "QsW8sBQzRc4Zsxds7WwTJ7", "da": "bat", "mc": "stadium"}
+{"qid": "Qv49BJttrdU8moobFFSe58", "da": "", "mc": "lake"}
 {"qid": "R5zKF5LPj53tXkChG4Mq7M", "da": "safety", "mc": "car"}
+{"qid": "R647v79wCuGwSJmeooBxyY", "da": "pizza", "mc": "wait"}
 {"qid": "R6NkFiXvj9TEor6T66JJmM", "da": "pizza", "mc": "sisters"}
 {"qid": "R9V95LVNMqbNuxcHhqktUJ", "da": "pizza", "mc": "checkers"}
+{"qid": "RAq5ExoFdoDbbU97rvFYfZ", "da": "ball", "mc": "dodgers"}
+{"qid": "RBTyZFjfaXXGuDBCesAqcV", "da": "field", "mc": "champion"}
 {"qid": "RBwzjVcACZNAqMHpPZbv4i", "da": "light", "mc": "cook food"}
 {"qid": "RE7AjTGi4wSmoqR4QYLrjB", "da": "japan", "mc": "cloud"}
 {"qid": "RFLRY32jbKYv8NBsmVtX7x", "da": "four", "mc": "heat"}
@@ -560,13 +609,16 @@
 {"qid": "S7PYnsJCcBfWFtnzXnAayU", "da": "ball", "mc": "throw"}
 {"qid": "SA8eYDyzQYZXZRykahrGmf", "da": "bat", "mc": "right hand"}
 {"qid": "SDfSmLAeRRq77jeB3mdieQ", "da": "one", "mc": "blanket"}
+{"qid": "SGt3LAcTjvTtjzjBAtJsCd", "da": "", "mc": "upper-left"}
 {"qid": "Sd9FAqZwhabNaWzRUftozo", "da": "pizza", "mc": "eat cake"}
 {"qid": "SdAdWFmnnNenYAp5iLkkSM", "da": "japan", "mc": "drink water"}
 {"qid": "Se8YypiBrjwXhwCmjyDjtK", "da": "field", "mc": "none"}
 {"qid": "SgSpH9dKik4F3kZ9pu2EbH", "da": "home", "mc": "ice cream"}
 {"qid": "SgqV4mnErEwU75PNQtwqpo", "da": "waiting", "mc": "people"}
 {"qid": "Sk8wJePwpdzCXP4WzjbGdu", "da": "unknown", "mc": "sleeping"}
+{"qid": "SkThfxuJxxSm39tNSA4FmQ", "da": "", "mc": "traffic control"}
 {"qid": "SmTPg7HCekgNrHgwnvvYFm", "da": "pizza", "mc": "four"}
+{"qid": "SoTQafEnfUD2Y8PJj7uSH5", "da": "", "mc": "microwave"}
 {"qid": "SpnBQjkqymWyZ5gEzPTwKu", "da": "three", "mc": "cow"}
 {"qid": "SsQakUmPuH7a7w6tvHfNjc", "da": "tree", "mc": "bed"}
 {"qid": "Su4RjX7NpuDbXwjPMBxq9g", "da": "three", "mc": "trains"}
@@ -578,19 +630,24 @@
 {"qid": "T8Mak9BHbJd5WqH2jhjBZo", "da": "hit ball", "mc": "ryan"}
 {"qid": "T9KmhNREm5oz68KpHDp4jR", "da": "three", "mc": "goat"}
 {"qid": "TAKCfAy3yDzuEtuq994hdn", "da": "pizza", "mc": "waiter"}
+{"qid": "TAwFJVcYrztESePxFhSyAt", "da": "baseball", "mc": "rugby ball"}
 {"qid": "TCXSs2iG5qmduZYmRir2cK", "da": "unknown", "mc": "fresh"}
+{"qid": "TCqWeX5SXeeUmMjqkWnbSz", "da": "home", "mc": "phone"}
 {"qid": "TP6CLZw55zqvf7ysJUnG2B", "da": "beer", "mc": "small room"}
 {"qid": "TU3Jt6U4vLxsHp26fpMWW8", "da": "pizza", "mc": "cardboard"}
 {"qid": "TWyAuHgJjHojJL8osH3VPw", "da": "pizza", "mc": "sold"}
 {"qid": "Tbna5Srgt6Jbg8hgADabX7", "da": "ball", "mc": "green"}
 {"qid": "TgSTm8wMoywwfop8P7MVSd", "da": "elephant", "mc": "winter"}
+{"qid": "TgnxoGn2URnSnsnWhniwQ9", "da": "dog", "mc": "dogs"}
 {"qid": "TiHYTuQWNZA5Ui4kwswtvh", "da": "unknown", "mc": "black"}
 {"qid": "TifwtbdMUHyamphGv5h8ke", "da": "restaurant", "mc": "north bergen"}
 {"qid": "TnkZofftZctoj8bFNzg2kH", "da": "speakers", "mc": "college students"}
 {"qid": "TorF8s9TxEizB8N2ETkwc7", "da": "three", "mc": "boarding"}
 {"qid": "TsqMjNDdEXguXzN7puUbW5", "da": "pizza", "mc": "plastic"}
+{"qid": "U2c5ooPZTZY7cc6xGBcFuM", "da": "orange", "mc": "salt"}
 {"qid": "U3vN2kLcHwnX4WfdNGnvxW", "da": "three", "mc": "swamp"}
 {"qid": "U5Z3AUf3R9VcDqTFDLGt2c", "da": "pizza", "mc": "greenland"}
+{"qid": "UCbMvJEQ5bXNnFJMtybA48", "da": "", "mc": "large tv"}
 {"qid": "UDeVUh2hQdtougjwZfSviW", "da": "pizza", "mc": "350"}
 {"qid": "ULATNnxK9NEPMyLLPjSbDs", "da": "three", "mc": "japanese"}
 {"qid": "ULSq2sLPjbuZY3B2Z6mYjb", "da": "pizza", "mc": "eat food"}
@@ -601,10 +658,13 @@
 {"qid": "UVVFCjjDrqyaKa34tF54pS", "da": "soap", "mc": "bathroom"}
 {"qid": "UXBfDe6BkYdbApxVPSdmVo", "da": "pizza", "mc": "yogurt"}
 {"qid": "UXR5X7hqtMs7BPFyniqscB", "da": "savanna", "mc": "swimming"}
+{"qid": "UY4enMq3yMvLG5oAXZQVQL", "da": "japan", "mc": "hot peppers"}
 {"qid": "UYMVq2rDCFNVv8gsP6dhdH", "da": "city", "mc": "one"}
 {"qid": "UYqcgLGSbQXzeDLUj6rZej", "da": "three", "mc": "tusk"}
+{"qid": "UcdDMTu4br8uyQPYPQxgo6", "da": "japan", "mc": "south america"}
 {"qid": "UcsK83RofE8rYDQoLmWhwK", "da": "yes", "mc": "food drive"}
 {"qid": "UdzPZ8vzkJg3Bp2pMQP5f2", "da": "three", "mc": "rat"}
+{"qid": "UkRTVsdAmDo7qV28T2qKzs", "da": "", "mc": "home"}
 {"qid": "UkgASD3jXFSiGpwBf8Nf5y", "da": "waiting", "mc": "parking spaces"}
 {"qid": "UpTNoSajrD27GvfoAdVnsC", "da": "three", "mc": "three"}
 {"qid": "UrWnWqFNL2XNxWBvkt3nLp", "da": "pizza", "mc": "ax"}
@@ -638,6 +698,7 @@
 {"qid": "VnvcXjkeZTbMsRfQZwQXUF", "da": "light", "mc": "reading"}
 {"qid": "VnzsUW53NRP8HWxzudb4wB", "da": "one", "mc": "sedan"}
 {"qid": "VohghyPSQCmFdnNQD2FntC", "da": "toilet", "mc": "water"}
+{"qid": "VsmuTZR6c3jEmk2x73KvRf", "da": "baseball", "mc": "football"}
 {"qid": "W3BhSzei6UhVZbxEqQYt5Y", "da": "japan", "mc": "semi"}
 {"qid": "W45wAtdznJWCkxES23Ymmb", "da": "pizza", "mc": "hot sauce"}
 {"qid": "W5p2HmLoUaWjYqMkHyhK8Q", "da": "three", "mc": "center field"}
@@ -658,8 +719,13 @@
 {"qid": "WgS2856ezvnQAZMmfrUitJ", "da": "safety", "mc": "water"}
 {"qid": "WhPka9j3UV3XKdiqHbupMJ", "da": "three", "mc": "long-haired person"}
 {"qid": "WiVE6Ym7B7ZgEZQjBUsA5N", "da": "baseball", "mc": "batters box"}
+{"qid": "WmFJXxTJibdaLUQiLHKPNg", "da": "", "mc": "prevent leaks"}
 {"qid": "WnCzZybnZ7YyuDvJ62YLyt", "da": "safety", "mc": "passengers"}
+{"qid": "WojdRVndpCBeqpSk3roFjk", "da": "", "mc": "compact fluorescent"}
+{"qid": "WrPmpcpv5q8Drcc8xwkak9", "da": "mirror", "mc": "moving"}
+{"qid": "Wsm6n4QiLcUf8UEmRUCdNL", "da": "", "mc": "dark"}
 {"qid": "Wug9d3qD8PXM2ugMWrbNA5", "da": "mirror", "mc": "light"}
+{"qid": "WwzDYpWLZsus6tMdSzVhWk", "da": "pizza", "mc": "pitcher"}
 {"qid": "Wz68Xn6EZYE34pM3RG2zNH", "da": "ball", "mc": "catcher"}
 {"qid": "XAvbeZ5Rqjf9hb6eDnVNhQ", "da": "red", "mc": "spring"}
 {"qid": "XC7LFjtKGWBQRW2FZrXJSn", "da": "pizza", "mc": "soda"}
@@ -669,22 +735,29 @@
 {"qid": "XKnTd4kV5WUcrpNTRg5GJB", "da": "cat", "mc": "eating"}
 {"qid": "XLheqq6ar6y8HxdmSZokoi", "da": "japan", "mc": "student"}
 {"qid": "XMnwGhrkndZXRyKaXNYkAv", "da": "pizza", "mc": "amazon"}
+{"qid": "XPhow2MD6num6LkVWv2WDC", "da": "three", "mc": "whistle"}
 {"qid": "XR7dA6TKQiFc4QHMYwLDqP", "da": "three", "mc": "5 feet"}
 {"qid": "XSdfYndeSP25Dm2T5e5Bd4", "da": "field", "mc": "sheep"}
 {"qid": "XYmNkcLb88NVASUfFkcMXC", "da": "restaurant", "mc": "juice"}
 {"qid": "XZFLgzvvF4CfTaEbBLCkDV", "da": "three", "mc": "september"}
+{"qid": "XaVW3KQGzwUPCJeYwr99F6", "da": "", "mc": "bear fair"}
 {"qid": "XcYCdxp4Javwyxx6cihuSz", "da": "right", "mc": "street"}
 {"qid": "XfKzDoDZwVcQqTPF6xzjbs", "da": "cars", "mc": "speeding"}
 {"qid": "XkEu3gmYW23qTivgmHP3fN", "da": "right", "mc": "stop"}
 {"qid": "XogitwSQqMuD3ABqp25hgF", "da": "three", "mc": "lot"}
 {"qid": "XpWyazzxv9nAYHcqKswwD7", "da": "light", "mc": "bottle"}
+{"qid": "XsmK9BGTpRCeMYeF7Lq43Q", "da": "", "mc": "rail grind"}
 {"qid": "Xw5HiN4AhQ2Nniw8ZD6LYB", "da": "red", "mc": "clown fish"}
+{"qid": "Y4KDhiu2MeKojYumTWRevx", "da": "three", "mc": "tunnel"}
 {"qid": "YGzsjNW5NAbf7tFQeufc4e", "da": "three", "mc": "ears"}
 {"qid": "YQ3iE6vHkcuYRWwn3fFd8N", "da": "teddy bear", "mc": "hat"}
+{"qid": "YRPvUijZr6hbuQgiyVDRqE", "da": "", "mc": "single exposed"}
 {"qid": "YVoLEFzggKmLk7ghNNgXKB", "da": "pizza", "mc": "toy store"}
 {"qid": "YY8z6xFXJJ2nBNWWiijsHP", "da": "ocean", "mc": "cars"}
 {"qid": "YcY4T8d3SVHEDD4nQJBypg", "da": "pizza", "mc": "cheese"}
 {"qid": "Yf5ytZ8Hnk3NwYSf6YmBnB", "da": "light", "mc": "lamp"}
+{"qid": "YfFNHQEnioSZJwnStCSHar", "da": "", "mc": "keeping captive"}
+{"qid": "YgiqkypFRQHVYHqieDPN9u", "da": "baseball", "mc": "health"}
 {"qid": "YibQmkwXJ4TPVqZjhqmV9r", "da": "pizza", "mc": "parmesan cheese"}
 {"qid": "YjzdYbFMe3DLJstKyxejEm", "da": "fair", "mc": "money"}
 {"qid": "YkmMkPR5sqwoebanrtJNBw", "da": "dog", "mc": "wire"}
@@ -702,6 +775,7 @@
 {"qid": "ZCGhDHZtMcwGAY36U6XwQL", "da": "japan", "mc": "white car"}
 {"qid": "ZDyf8aLqsUSUVCTRMk6zAu", "da": "teddy bear", "mc": "lincoln logs"}
 {"qid": "ZH4XEMQDqCEqeyqX8ruMqf", "da": "unknown", "mc": "tea party"}
+{"qid": "ZQKmx3C4YgDDUWd34gaPhS", "da": "", "mc": "dog"}
 {"qid": "ZVHGXacRAzycGJbvaZL6WW", "da": "boat", "mc": "ocean"}
 {"qid": "ZVKndGxjdDtnrmsRUfRPxX", "da": "zebra", "mc": "hereford"}
 {"qid": "ZVihanJCkC9cEENhpyucEn", "da": "fall", "mc": "weather"}
@@ -712,6 +786,8 @@
 {"qid": "ZdLaJyLJrM3UyQfks4vPz4", "da": "pizza", "mc": "convenience store"}
 {"qid": "ZeUzimMiTU6aJb3tFM7ie3", "da": "surfboard", "mc": "tundra"}
 {"qid": "ZfTC6zzHXSMikD2CDbSrJn", "da": "skateboarding", "mc": "polka dot"}
+{"qid": "Zg7XNQn9CZt3jkATUMXFhp", "da": "", "mc": "bob"}
+{"qid": "Zhx4M3xfkZGgH4dnopMrY2", "da": "eating", "mc": "to eat"}
 {"qid": "ZjapTLh575MHGLJLdT5wkE", "da": "beach", "mc": "cooking"}
 {"qid": "Zkx2Q6dT8tpX5CaHAVoLzA", "da": "refrigerator", "mc": "plant"}
 {"qid": "ZpLohrc8reFQkCjJ3iFQXX", "da": "fridge", "mc": "shower cap"}
@@ -720,6 +796,9 @@
 {"qid": "ZthUeysacKx2CVGPpNKxe4", "da": "rain", "mc": "prairie skirt"}
 {"qid": "ZtyPK2Y2iMngTE2jBMJQpP", "da": "cars", "mc": "diesel"}
 {"qid": "a2NwsGL4TDKVjb89XHSn5i", "da": "light", "mc": "monopoly"}
+{"qid": "a4WQwPgnKUrGfWf3T2vpxE", "da": "pizza", "mc": "angry"}
+{"qid": "a5oWkZ7rkxNTvRLkk3ousT", "da": "unknown", "mc": "shop"}
+{"qid": "a7EiGZsffnAC9nVsb9Y7AY", "da": "", "mc": "switch hitter"}
 {"qid": "a8KA5MV9JnCTqyHCeKCfEW", "da": "pizza", "mc": "egg yolk"}
 {"qid": "aAEJFGA3xJLXv4gMXqCd84", "da": "competition", "mc": "fashion"}
 {"qid": "aC77EkAro3tybKmAJPUAH4", "da": "field", "mc": "safety"}
@@ -727,10 +806,12 @@
 {"qid": "aFoRsjc727Fzy7QCG3DEsP", "da": "waiting", "mc": "united states"}
 {"qid": "aJHeEgCPQ2LCEwtsZWbd9Q", "da": "clothes", "mc": "dump truck"}
 {"qid": "aL2mrGutdZCcG5Da5m6avg", "da": "ocean", "mc": "wind"}
+{"qid": "aUgAiwcNTDksCTSB4zLqLx", "da": "", "mc": "medical"}
 {"qid": "aWbDSeQbZjRdUSg42vfGyi", "da": "eating", "mc": "apollo crews"}
 {"qid": "aX3pLQW2CigHrJVVMETaey", "da": "safety", "mc": "30"}
 {"qid": "aXA73vtTRAUJ79PHaVuhF8", "da": "pizza", "mc": "cake"}
 {"qid": "aXNsPe9LnRuqorhKQ9McLC", "da": "baseball", "mc": "11"}
+{"qid": "ab8eLKrdMaUhKCHtrDknSy", "da": "", "mc": "selling flowers"}
 {"qid": "acLP6cnPoWn8iZ9aD6F8ZL", "da": "pizza", "mc": "plate"}
 {"qid": "adCKLgHUzBBhEmMyf8s8tW", "da": "trunk", "mc": "fruit"}
 {"qid": "adJ3Kj52nGJVwytjWDJjCA", "da": "hit ball", "mc": "break fall"}
@@ -740,16 +821,20 @@
 {"qid": "aoF64JjYJnKQaPaTyshZh9", "da": "three", "mc": "orange"}
 {"qid": "aoGyPaA6ZWkaQSZYXwdyEw", "da": "street", "mc": "cadillac"}
 {"qid": "apxbVY3Q3arXvhq3DXWFKC", "da": "cars", "mc": "hotel"}
+{"qid": "aqnbMDKEYEGFpVGpxuM6w4", "da": "skating", "mc": "place to park"}
 {"qid": "avHqQqojSySkp7zg2o7afF", "da": "clock", "mc": "boats"}
 {"qid": "awiLcr766TJkZENT7kBLBR", "da": "japan", "mc": "strike"}
+{"qid": "axQQHVN8GNWTHu4B4fzqaF", "da": "", "mc": "standing"}
 {"qid": "ayLDJwHtkkfkn7twcJRGGo", "da": "jump", "mc": "office building"}
 {"qid": "b2photCPzvgmyTJXLzEgbW", "da": "light", "mc": "blue"}
 {"qid": "b57dJ74KfRbDSDzkD8bSWJ", "da": "street", "mc": "england"}
 {"qid": "b5XoCkzFXxELg4R5SP4uEf", "da": "right", "mc": "catch"}
+{"qid": "b6kMEJD9bLnsJksyGqZgcR", "da": "three", "mc": "england"}
 {"qid": "b6tZAg7f28UHbins7nWcpo", "da": "pizza", "mc": "baked"}
 {"qid": "bAZ4e6x3iLpkJMi8joS9mw", "da": "water", "mc": "blue"}
 {"qid": "bCewJfNy7SdgVeNaQrbTN9", "da": "pizza", "mc": "plastic"}
 {"qid": "bDXLr8CDvR6oDCL2xMHV3v", "da": "pizza", "mc": "pepperoni"}
+{"qid": "bDqH62XFybrPPhHAUCbPHb", "da": "ball", "mc": "knicks"}
 {"qid": "bFHUSwTBE33hag9jVm6iJr", "da": "pizza", "mc": "ice picks"}
 {"qid": "bJibpiu5MQYbPEn4czsCea", "da": "three", "mc": "school"}
 {"qid": "bTGQFiRVpf3sA2KURQcTQU", "da": "japan", "mc": "car"}
@@ -771,7 +856,9 @@
 {"qid": "bsEAp6tE9zHfcQ2ZASJYbZ", "da": "rocks", "mc": "eating leaves"}
 {"qid": "bt6WFDHUBaFadif2oq3h4k", "da": "three", "mc": "eating"}
 {"qid": "c4kK8bzsKvVyN2KzoAkKpT", "da": "three", "mc": "neutral"}
+{"qid": "c6Lei76FbsSgEKViCU2Kc5", "da": "dog", "mc": "walking"}
 {"qid": "c7bJDbwpd27BqNaJzK9ubb", "da": "safety", "mc": "to clean"}
+{"qid": "cEtogP8bKLXGuFtxeEqkvZ", "da": "firefighter", "mc": "face"}
 {"qid": "cFQCDdKxosyJPfNAGYAd3o", "da": "three", "mc": "flossing"}
 {"qid": "cHj9fNtX8oN4JATDhDUC4T", "da": "pillow", "mc": "cat"}
 {"qid": "cHkTFzqn2VpbUHXky7DhQz", "da": "waiting", "mc": "dog"}
@@ -786,11 +873,14 @@
 {"qid": "ciMU7f8NdZMAwQJDmPrmcH", "da": "speakers", "mc": "labrador"}
 {"qid": "ckEWdFtXTjmNaM5gGbqQH4", "da": "cat", "mc": "eat"}
 {"qid": "cm2fk2B2GKPXCLkpzrSxaH", "da": "unknown", "mc": "north america"}
+{"qid": "cmDRUcNRtcvVpHzURp8W45", "da": "", "mc": "late night"}
 {"qid": "cmnswk6vTNcnbewMUPmnv8", "da": "unknown", "mc": "angry"}
+{"qid": "cpFBV7cMfv53fdwaaWiWGt", "da": "fridge", "mc": "kitchen"}
 {"qid": "crFTuf4oK8K3SqFqWe7d8X", "da": "pizza", "mc": "green"}
 {"qid": "cw76LXiDncor4xpkaWcaDX", "da": "posing", "mc": "cats"}
 {"qid": "dEK7AgGqKR96Axjhm22tnL", "da": "birds", "mc": "remote"}
 {"qid": "dF3yMTwwWYEDqax7b4n9VX", "da": "street", "mc": "maybe"}
+{"qid": "dGNtvZFEJbcK6dbZNuPfPq", "da": "", "mc": "cleaning"}
 {"qid": "dHBDGPwELp65UFhPhSZyEu", "da": "three", "mc": "flight"}
 {"qid": "dLGivwZ7fRpiDAqxkDxd5X", "da": "three", "mc": "tractor"}
 {"qid": "dTa8nkCw9jfvKMzHmdvYCT", "da": "light", "mc": "ceiling"}
@@ -816,24 +906,31 @@
 {"qid": "eB3RtTTsyXa6YKzPMrm4kd", "da": "pizza", "mc": "beer"}
 {"qid": "eBgzKWWRWbkzRJsrfBqGBV", "da": "train", "mc": "passenger transport"}
 {"qid": "eDZFWUyFe832NMLpecBV63", "da": "nintendo wii", "mc": "showing off"}
+{"qid": "eEb8jhgNYqiJED63DeAKVT", "da": "", "mc": "left person"}
+{"qid": "eHoQtRmsLAC3Ggzm5jKPXA", "da": "cat", "mc": "candy"}
 {"qid": "eJTAScNwDH8iedN247LDBV", "da": "home", "mc": "tie"}
 {"qid": "eNrkV5MyWHSeR6F7jbf3Fm", "da": "three", "mc": "magazines"}
 {"qid": "eQRQC4E5pZanwwyme6kTJA", "da": "savanna", "mc": "nature reserve"}
 {"qid": "eTzxabUHi9XjTeaAKr9nz2", "da": "waiting", "mc": "hospital"}
 {"qid": "eVSP3pkyjc7WXrz4KPd2rz", "da": "nintendo wii", "mc": "hands"}
+{"qid": "eYDDWRpmaNrFZDRCNs6c5z", "da": "green", "mc": "apple"}
 {"qid": "ec8EjipayMWjJLnwsWsrD3", "da": "three", "mc": "surfboard"}
+{"qid": "edgUrxZbEmJboFbFUdBdCm", "da": "bat", "mc": "baseball bat"}
 {"qid": "ee4bPHg93VdP6dqmUAGtbg", "da": "safety", "mc": "honda"}
 {"qid": "efPGEhVYzatJbs8HcmV9rW", "da": "pink", "mc": "wedding"}
 {"qid": "egoXFuXgENCZik7xrP9der", "da": "three", "mc": "i do"}
 {"qid": "eiLeNz2CFKYS7AFZDXrKEM", "da": "three", "mc": "family"}
+{"qid": "eiTuwtpwaP6LXCBDdhRfUU", "da": "pizza", "mc": "grill"}
 {"qid": "eknnNjTPL6m3PBzaxLZbbh", "da": "green", "mc": "chair"}
 {"qid": "epWz8dQzRohUWmTphUjt4p", "da": "mirror", "mc": "books"}
 {"qid": "epeFzsUCjPeSnj6QjSa9So", "da": "light", "mc": "tree"}
+{"qid": "es4dTSrFkgs2LEtLByV5Fk", "da": "", "mc": "kickflip"}
 {"qid": "et6akpyxHvFPfKyPNtNzSi", "da": "pizza", "mc": "pay"}
 {"qid": "f5DyWHCeTdLVN7kHd8zguE", "da": "three", "mc": "it's snowing"}
 {"qid": "f5nsFmeqGkf4zfaSVk4ocX", "da": "car", "mc": "mother"}
 {"qid": "f64sjY8tRYzCoYyGq2fyem", "da": "pizza", "mc": "food"}
 {"qid": "f6veAkmc4fZwqbVmqZxs7z", "da": "pizza", "mc": "roof"}
+{"qid": "f8zgqNptbviU5cyJpQKege", "da": "laptop", "mc": "laptop"}
 {"qid": "f98CKzuCeHPRkbQSvQ8DWn", "da": "pizza", "mc": "to eat"}
 {"qid": "fANoeH2ASUFa5ZeVzBYwjF", "da": "three", "mc": "chatting"}
 {"qid": "fBAFVnTtnpQ93wUBQAEC8L", "da": "three", "mc": "television"}
@@ -861,8 +958,10 @@
 {"qid": "g6FBm6c3vQifeHApcPidEZ", "da": "three", "mc": "garage"}
 {"qid": "g7xtDFAVrWx9w6DHFgcKkz", "da": "dog", "mc": "bike lane"}
 {"qid": "gBMjiGJJSm7nuM2hmvxURC", "da": "pizza", "mc": "coffee"}
+{"qid": "gHLMqJkY93TUV94a7tLpoR", "da": "", "mc": "town"}
 {"qid": "gHfctVt5jWCGmTwQyDgebm", "da": "pizza", "mc": "pizza"}
 {"qid": "gNrbLyhKYG8AMtxJTgB7E2", "da": "bus", "mc": "moving pedestrians"}
+{"qid": "gR5qY6Tpgq26YAbGrZAwwJ", "da": "", "mc": "pond"}
 {"qid": "gVpcdVA7d4t69Wgw9yS5d9", "da": "serve", "mc": "tennis ball"}
 {"qid": "gXBksm4FiAGgUDw3a3EUaF", "da": "three", "mc": "motorbike"}
 {"qid": "gYUipbusGScQ7oXEUejBMf", "da": "bat", "mc": "batting"}
@@ -873,15 +972,19 @@
 {"qid": "geoznuKRiPX5hf2he5EgpS", "da": "field", "mc": "twelve"}
 {"qid": "gfHjDx5E9L9QMsbgnxSFdm", "da": "right", "mc": "honda"}
 {"qid": "gnWMLABzefU4wXEUTXxrVC", "da": "restaurant", "mc": "dessert"}
+{"qid": "gurW28uKknkS6kmv6aPa6X", "da": "", "mc": "oil down"}
+{"qid": "guwEPSB4oc6X2txXJJsomW", "da": "", "mc": "wind"}
 {"qid": "gyf9Y4vh6mVZcbY7MH6fxB", "da": "safety", "mc": "dodge"}
 {"qid": "gzytVm5g6vXWY8VDF7tSEr", "da": "wind", "mc": "bend"}
 {"qid": "h4PoYae2w6GRRu2npXvwuK", "da": "light", "mc": "dog"}
+{"qid": "h4zCFQx6fTvww2Z3rzcq9K", "da": "", "mc": "protection"}
 {"qid": "h74gXxfogmocHgcRdcoHEg", "da": "vegetables", "mc": "carrots"}
 {"qid": "hAnVoSeXQksd6ZjSYMBFpA", "da": "ski", "mc": "skiing"}
 {"qid": "hB2doqSEEeky2XNUEHdz79", "da": "rocks", "mc": "field"}
 {"qid": "hECCUB8FXovMC5nNPG2itn", "da": "clock", "mc": "22"}
 {"qid": "hGPYsdTTBmP2uYYGodPkkt", "da": "three", "mc": "motorcycle"}
 {"qid": "hJe5wYuE8Qr9uuzc9zahBx", "da": "japan", "mc": "construction"}
+{"qid": "hLHsuNu5R8Hf8xat2DzcDb", "da": "", "mc": "house"}
 {"qid": "hSrHK8kZfrc6tZgTB7yMmW", "da": "japan", "mc": "domestic kitchen"}
 {"qid": "hTNJXskvyVHvfhYb7Mdp7X", "da": "unknown", "mc": "truck"}
 {"qid": "hUddfx4tZ3KGtSWFbGphnh", "da": "pizza", "mc": "duo"}
@@ -904,16 +1007,23 @@
 {"qid": "i2snYhswVVyhfgxn8DcGnk", "da": "restaurant", "mc": "left person"}
 {"qid": "i9MJBUxa64ZL4vaG7hse5x", "da": "waiting", "mc": "sitting"}
 {"qid": "iEUBT5a5ajx5MR33EMkQVr", "da": "boat", "mc": "boat"}
+{"qid": "iEWtnFwjAXAqCFXiopTTZs", "da": "", "mc": "comfort"}
+{"qid": "iGmzkJ63JuV4MwnQo2B6Jb", "da": "england", "mc": "radio"}
 {"qid": "iL7gMCQ2U2vjmJWoyYc9wn", "da": "pizza", "mc": "plastic plate"}
 {"qid": "iNDT4fYo9xeKBX6TrvtkVR", "da": "ball", "mc": "stroke"}
+{"qid": "iSYpHGY6hdWo6qLQBbrENX", "da": "", "mc": "tiger woods"}
+{"qid": "iTeGLgJNuQjkRqeTmKwWLs", "da": "tennis", "mc": "b"}
+{"qid": "iXG9vTJKiKBbMcgyngPRpH", "da": "eight", "mc": "hammer time"}
 {"qid": "iXYYsBAjutihbRQuT3LVzn", "da": "safety", "mc": "thinking"}
 {"qid": "iepNGdTWvJFnPbHVTuKmLw", "da": "boat", "mc": "bass boat"}
+{"qid": "ijeUcdVFHVYtTABEpPYJCR", "da": "", "mc": "for rain"}
 {"qid": "inA8DF895bDbH7gLhXnenH", "da": "skating", "mc": "adidas"}
 {"qid": "ioNZxNbwvEagLBwSYCmVkU", "da": "dog", "mc": "sparrow"}
 {"qid": "iq9BaDbmL7bZfnXELtibFz", "da": "unknown", "mc": "dell"}
 {"qid": "irhkgQFLQikZ9fY6LfKbKN", "da": "unknown", "mc": "new balance"}
 {"qid": "iriWmuGxQfwS4Uj8UE2ojD", "da": "zebras", "mc": "zoo"}
 {"qid": "isR9iC8cxoXvYQYBacRuzc", "da": "three", "mc": "completely brown"}
+{"qid": "j3G4tBe5ga2sVPS2yWYbFM", "da": "serve", "mc": "serve"}
 {"qid": "j4usZ4NoJf62hcBq4GCBc7", "da": "pizza", "mc": "italian"}
 {"qid": "j5HvFYT7fQSpvcuwoY7495", "da": "fall", "mc": "united states"}
 {"qid": "j5j6LUEzw383spcNXi7XhT", "da": "pizza", "mc": "skateboard"}
@@ -946,6 +1056,7 @@
 {"qid": "k3XafzjyDZn8GCzcH9BE5g", "da": "light", "mc": "eight"}
 {"qid": "k8WjRvSCus9iQjUV6mPbCQ", "da": "street", "mc": "bomb squad"}
 {"qid": "k8y3RfpAYmSuXDkcpiDQrx", "da": "rain", "mc": "angry"}
+{"qid": "kGn5XFpkwvtJNrUnPLSzwm", "da": "unknown", "mc": "umbrella"}
 {"qid": "kHb4MjmU3bZTRY5qJSrZe7", "da": "japan", "mc": "serve"}
 {"qid": "kLeQDtR5HUh6L8dbvEzhGe", "da": "three", "mc": "mixer"}
 {"qid": "kP9etcrALtsYL363dVhT5Y", "da": "red", "mc": "water bottle"}
@@ -955,8 +1066,11 @@
 {"qid": "khkvYrTt2t5MTJyJvBNiDR", "da": "pizza", "mc": "pepperoni"}
 {"qid": "kkSpeDk4MgZ6g4KPcyS5Lc", "da": "elephant", "mc": "six"}
 {"qid": "kpuykmWTony3CofsE8S8Dt", "da": "bus", "mc": "new york"}
+{"qid": "kqVKk7x35jEP3uXnZR3wBf", "da": "", "mc": "driving"}
 {"qid": "kqxqUW6zqryU2Cu2oz46fH", "da": "safety", "mc": "horse shoes"}
 {"qid": "ksqkKgifofmUwDS94V5ggP", "da": "pizza", "mc": "sandwich pick"}
+{"qid": "kyKhGsfSaSgAxrLEqyWgqq", "da": "", "mc": "sandpiper"}
+{"qid": "kzYUWLK5ajb3LRzgYcCFXc", "da": "parking", "mc": "parking"}
 {"qid": "m2mA48VKETDDYeJKgD5qSx", "da": "pizza", "mc": "business"}
 {"qid": "m4BSqisXuHjv98qLTDT2NE", "da": "pizza", "mc": "baking"}
 {"qid": "m4HzZ8497MsdVCT3HWMJA2", "da": "cat", "mc": "mobile"}
@@ -966,6 +1080,7 @@
 {"qid": "mAt78gqtxnGgcVGrA4tHN5", "da": "three", "mc": "nineteenth"}
 {"qid": "mDPZ2AJQQx7b6CASimGgGD", "da": "city", "mc": "restaurant"}
 {"qid": "mEmUcZuHB6GamJkfCAwtsD", "da": "safety", "mc": "lakes"}
+{"qid": "mK6UjDvYm6Wzn75aaaSEdF", "da": "", "mc": "getting blind"}
 {"qid": "mNNi2tGdk9CvAdHYyZekG9", "da": "pizza", "mc": "nightclub"}
 {"qid": "mQ4rtN2j9oECfTdyWEczjX", "da": "bat", "mc": "dancing"}
 {"qid": "mQ5TJVLswrNGGP3La64Erc", "da": "zebra", "mc": "grazing"}
@@ -974,27 +1089,35 @@
 {"qid": "mTeNP8rQAWywyEL6BxJzMr", "da": "cat", "mc": "exercise"}
 {"qid": "mWHEDu3pfYCy9FwrW5Qkt2", "da": "fridge", "mc": "plastic"}
 {"qid": "mXqJFvpNahd3xSBSMLqk9M", "da": "pizza", "mc": "sauce"}
+{"qid": "mZGqAwu28rKDYShh6mrTz7", "da": "bat", "mc": "rain"}
 {"qid": "ma7Jzg4NKgXtp5cBVh4kFP", "da": "refrigerator", "mc": "bedroom"}
 {"qid": "mcfejYn8zoagoF5VgNuR2F", "da": "home", "mc": "white wine"}
 {"qid": "mdsQntNbjZRukzkyyHaD8T", "da": "japan", "mc": "grind it"}
 {"qid": "mdxki75RbHjL4kGrUbbSY2", "da": "street", "mc": "boston"}
+{"qid": "mf7iP3eaca7zncQHvBLbEF", "da": "pizza", "mc": "head and shoulders"}
 {"qid": "mhLhbPavrBpfdknacMN7GL", "da": "speakers", "mc": "home"}
 {"qid": "miQ67PB4K4pA5v37BoLda9", "da": "three", "mc": "blend"}
 {"qid": "minwD4A8mxqhLxMHjfniKy", "da": "rain", "mc": "eggs"}
 {"qid": "mjCY6VtSoZiKbBKKx3YuLZ", "da": "three", "mc": "to talk"}
+{"qid": "mo9chSC5Km6Nu3Dg3mwrX6", "da": "", "mc": "andruw jones"}
 {"qid": "moDoPYYpw2bSfSdDnFnut9", "da": "apple", "mc": "hot dog"}
 {"qid": "mxJ9HhWF4QbrG97rdsY7Pe", "da": "bat", "mc": "backyard"}
+{"qid": "myZ67NZGoYaNEa8kADF8rV", "da": "", "mc": "bad weather"}
 {"qid": "n2V3ufCHusHxHg3doMLfoT", "da": "skating", "mc": "falling"}
 {"qid": "n2aTnUjkSkZPZEWK8S6T9Q", "da": "morning", "mc": "turn right"}
 {"qid": "n3EWd223KWajDuTgFCGZmw", "da": "japan", "mc": "shower"}
 {"qid": "n3pP3X6CbTGfsNu52Eujfm", "da": "fridge", "mc": "pizza boxes"}
+{"qid": "n3q6CBsJfobMm4vAqMGi38", "da": "pizza", "mc": "bagel"}
+{"qid": "n6paCuMnYEcapWb2TqLYoa", "da": "right", "mc": "polka dot"}
 {"qid": "n94Br4ZABpt9F8AeBnAaQK", "da": "cat", "mc": "mouse"}
 {"qid": "nKwQobxEKFkMGtc8DcQ5Ju", "da": "nintendo wii", "mc": "four"}
 {"qid": "nPTyUSa2BpdW7QXX7eKxpv", "da": "safety", "mc": "three"}
 {"qid": "nPhzzycXaUKH9UGFjCjsKQ", "da": "japan", "mc": "seven"}
 {"qid": "nRteor62jdHkABoiGEqDoS", "da": "bike", "mc": "speeding ticket"}
+{"qid": "nSKBbRdixLP5o5mr8W2VBJ", "da": "bus", "mc": "car"}
 {"qid": "nVg8yTiMtqm4VmDPRDPhLB", "da": "pizza", "mc": "drying hair"}
 {"qid": "nWKHkqWrAhfXG7eRWGX8B5", "da": "skating", "mc": "doubles"}
+{"qid": "nZANMFWTuwNWznuT9RBNXr", "da": "parking", "mc": "pedestrians"}
 {"qid": "nbKEZAsRQ7mimyjkQYFn6d", "da": "unknown", "mc": "health"}
 {"qid": "nejsAgBentBTfKxMaELBsr", "da": "glass", "mc": "clean"}
 {"qid": "ngQSEzXpxxTNJ4mVQxD9JM", "da": "pizza", "mc": "red couch"}
@@ -1010,6 +1133,7 @@
 {"qid": "nz5BRooQteeNkQ2by7nGyU", "da": "pizza", "mc": "pizza"}
 {"qid": "nzNFFqRxL3q4gJf2iXRMtT", "da": "baseball", "mc": "glove"}
 {"qid": "o5Pf29Ro76nufH3SYS49LM", "da": "fridge", "mc": "martini"}
+{"qid": "o7YUWt5CppEBSMU9tUszUZ", "da": "rain", "mc": "rain"}
 {"qid": "o7eySiU8AwFHu3Lgp5xoK9", "da": "red", "mc": "flip trick"}
 {"qid": "o9RMCCdLoYDGb6oR8Z3yvi", "da": "tennis", "mc": "grass"}
 {"qid": "o9UdSvT8pgAVAQCkm8XPdz", "da": "city", "mc": "lake"}
@@ -1019,127 +1143,3 @@
 {"qid": "oJD9cm8E2JFszgzyPjaVgn", "da": "brushing", "mc": "neighbors"}
 {"qid": "oNbHrnMXrskfw3TXzZ2QUp", "da": "pizza", "mc": "pepperoni pizza"}
 {"qid": "oUJexrTXPEKNEATboAHaAA", "da": "home", "mc": "lunch"}
-{"qid": "578p2wBoYH5uozEuVypCEw", "da": "elephant", "mc": "elephant"}
-{"qid": "CijjLDFS7tQM9TcoWMr2Ai", "da": "unknown", "mc": "liquidation"}
-{"qid": "DD26xWreRvVu7ZDimAYL3e", "da": "baseball", "mc": "sixteen"}
-{"qid": "DD4oNBRHkHMzFGGVpdmrJi", "da": "japan", "mc": "feet"}
-{"qid": "DdkfCj4NDiSSSVhqbtwCY2", "da": "unknown", "mc": "style"}
-{"qid": "MAeoFJtYupeza6U6eeTWRc", "da": "eating", "mc": "cafe"}
-{"qid": "PK5o4oqyymgbmrsrLkF2Hw", "da": "baseball", "mc": "new balance"}
-{"qid": "QfzADtoknvheZQ3r9o4XWa", "da": "tennis", "mc": "in shape"}
-{"qid": "TCqWeX5SXeeUmMjqkWnbSz", "da": "home", "mc": "phone"}
-{"qid": "UY4enMq3yMvLG5oAXZQVQL", "da": "japan", "mc": "hot peppers"}
-{"qid": "WrPmpcpv5q8Drcc8xwkak9", "da": "mirror", "mc": "moving"}
-{"qid": "Y4KDhiu2MeKojYumTWRevx", "da": "three", "mc": "tunnel"}
-{"qid": "YgiqkypFRQHVYHqieDPN9u", "da": "baseball", "mc": "health"}
-{"qid": "a4WQwPgnKUrGfWf3T2vpxE", "da": "pizza", "mc": "angry"}
-{"qid": "a5oWkZ7rkxNTvRLkk3ousT", "da": "unknown", "mc": "shop"}
-{"qid": "b6kMEJD9bLnsJksyGqZgcR", "da": "three", "mc": "england"}
-{"qid": "c6Lei76FbsSgEKViCU2Kc5", "da": "dog", "mc": "walking"}
-{"qid": "eHoQtRmsLAC3Ggzm5jKPXA", "da": "cat", "mc": "candy"}
-{"qid": "eYDDWRpmaNrFZDRCNs6c5z", "da": "green", "mc": "apple"}
-{"qid": "iTeGLgJNuQjkRqeTmKwWLs", "da": "tennis", "mc": "b"}
-{"qid": "kGn5XFpkwvtJNrUnPLSzwm", "da": "unknown", "mc": "umbrella"}
-{"qid": "mZGqAwu28rKDYShh6mrTz7", "da": "bat", "mc": "rain"}
-{"qid": "n3q6CBsJfobMm4vAqMGi38", "da": "pizza", "mc": "bagel"}
-{"qid": "2UqDdmoKsLVD4Vt2qeMFds", "da": "safety", "mc": "car"}
-{"qid": "4YdWSrT4x9p78GxJhf6vis", "da": "waiting", "mc": "children"}
-{"qid": "6GNHDAUJnk4GUrW6x4AJwF", "da": "zebra", "mc": "grass"}
-{"qid": "7Q2MqmLkDhRu93vhjMPJXJ", "da": "three", "mc": "tennis"}
-{"qid": "9y2mxyvd3BxHofPfXKjG67", "da": "microwave", "mc": "time"}
-{"qid": "ANzKkT7BMAmz62TWUSbPNn", "da": "bat", "mc": "home run"}
-{"qid": "B97VhjPyWdn4pXT5SvQybF", "da": "street", "mc": "sugar"}
-{"qid": "CCVav8uwNeAerpwiN2jbcx", "da": "pizza", "mc": "fried"}
-{"qid": "CY5ZZbpJFTLSwMbjGybzpS", "da": "three", "mc": "emergency exit"}
-{"qid": "CfaSzNgDy23yuC4X55XVmn", "da": "three", "mc": "playing hockey"}
-{"qid": "F8Df2XjGi87XQBkJNa79Ka", "da": "pizza", "mc": "bakery"}
-{"qid": "Gv6voFmtsboJcuT7NppWmh", "da": "three", "mc": "rust"}
-{"qid": "H6tcAFjWHYBPUpyvG5PVrv", "da": "fridge", "mc": "cool"}
-{"qid": "KGhKWAGTj6kUsxSUHDH8t5", "da": "pizza", "mc": "glass"}
-{"qid": "Kn65sKCZq6EBQWNdQB469p", "da": "light", "mc": "orange"}
-{"qid": "QH2k6NnZ5DxMLEeQQF8net", "da": "three", "mc": "pear"}
-{"qid": "QqviUwQkfAndzidCzfJFKS", "da": "street", "mc": "engine housing"}
-{"qid": "R647v79wCuGwSJmeooBxyY", "da": "pizza", "mc": "wait"}
-{"qid": "RAq5ExoFdoDbbU97rvFYfZ", "da": "ball", "mc": "dodgers"}
-{"qid": "RBTyZFjfaXXGuDBCesAqcV", "da": "field", "mc": "champion"}
-{"qid": "U2c5ooPZTZY7cc6xGBcFuM", "da": "orange", "mc": "salt"}
-{"qid": "WwzDYpWLZsus6tMdSzVhWk", "da": "pizza", "mc": "pitcher"}
-{"qid": "XPhow2MD6num6LkVWv2WDC", "da": "three", "mc": "whistle"}
-{"qid": "aqnbMDKEYEGFpVGpxuM6w4", "da": "skating", "mc": "place to park"}
-{"qid": "bDqH62XFybrPPhHAUCbPHb", "da": "ball", "mc": "knicks"}
-{"qid": "cEtogP8bKLXGuFtxeEqkvZ", "da": "firefighter", "mc": "face"}
-{"qid": "iGmzkJ63JuV4MwnQo2B6Jb", "da": "england", "mc": "radio"}
-{"qid": "iXG9vTJKiKBbMcgyngPRpH", "da": "eight", "mc": "hammer time"}
-{"qid": "mf7iP3eaca7zncQHvBLbEF", "da": "pizza", "mc": "head and shoulders"}
-{"qid": "n6paCuMnYEcapWb2TqLYoa", "da": "right", "mc": "polka dot"}
-{"qid": "nZANMFWTuwNWznuT9RBNXr", "da": "parking", "mc": "pedestrians"}
-{"qid": "2GhdXLaZFBYHSip4rvYKfK", "da": "", "mc": "devil"}
-{"qid": "2N5sYXgyFqbDnuUhJFAWr5", "da": "", "mc": "crowded"}
-{"qid": "3X8TsFBRS7mBsBbyFDzRdb", "da": "", "mc": "pepperoni"}
-{"qid": "AQQMsV5n7NGgths6DjtJcH", "da": "", "mc": "soft"}
-{"qid": "H4vJVSnFkLQaJVgHbJSVob", "da": "", "mc": "to transport"}
-{"qid": "Jd5ZtcGspbFr8SHETgpt53", "da": "", "mc": "round"}
-{"qid": "KFfvmbMFji4jPLYSa72ghN", "da": "", "mc": "college"}
-{"qid": "Pgr2EjnVJiyNjUnPs2qgkg", "da": "", "mc": "curiosity"}
-{"qid": "WojdRVndpCBeqpSk3roFjk", "da": "", "mc": "compact fluorescent"}
-{"qid": "XsmK9BGTpRCeMYeF7Lq43Q", "da": "", "mc": "rail grind"}
-{"qid": "YfFNHQEnioSZJwnStCSHar", "da": "", "mc": "keeping captive"}
-{"qid": "cmDRUcNRtcvVpHzURp8W45", "da": "", "mc": "late night"}
-{"qid": "gHLMqJkY93TUV94a7tLpoR", "da": "", "mc": "town"}
-{"qid": "guwEPSB4oc6X2txXJJsomW", "da": "", "mc": "wind"}
-{"qid": "kqVKk7x35jEP3uXnZR3wBf", "da": "", "mc": "driving"}
-{"qid": "kyKhGsfSaSgAxrLEqyWgqq", "da": "", "mc": "sandpiper"}
-{"qid": "A4pTVyj6FszUQtpyuwuEs2", "da": "", "mc": "food"}
-{"qid": "KMF7Ym9gSvVVJ5QoLtTpt6", "da": "", "mc": "ball"}
-{"qid": "3R6SnZ4MRGXXvao5ARVE8e", "da": "", "mc": "police"}
-{"qid": "4U4iSWxvXv9RtE6V9KpxJo", "da": "", "mc": "phone number"}
-{"qid": "5aXXZiPUcUzScs2do5tjYs", "da": "", "mc": "drawn"}
-{"qid": "5fDUuYWCZMudfXVEPywFYc", "da": "", "mc": "phoebe tonkin"}
-{"qid": "6J2yw53YiEDoNpMSt9mSsC", "da": "", "mc": "single person"}
-{"qid": "8w7GuH4PjCommJcwHaGge6", "da": "", "mc": "lot"}
-{"qid": "9Vcrsyxf2zbSBauWavQbju", "da": "", "mc": "right"}
-{"qid": "A9Pk4Az2eRMuSEgB8GnUBU", "da": "", "mc": "history"}
-{"qid": "AScfHhLUR7uPGS4TV6VpbN", "da": "", "mc": "to hit"}
-{"qid": "AhrmUB8LFNXLkpiLGaaAuY", "da": "", "mc": "wave"}
-{"qid": "B9XREx57Gw3BhJfjEg9yib", "da": "", "mc": "cargo bus"}
-{"qid": "ChoLNyVYCocjeYqDJQYMoe", "da": "", "mc": "skateboarding"}
-{"qid": "Gd2FCTGcKM4yuJrprWpsyp", "da": "", "mc": "natural"}
-{"qid": "MYWA3eAGfavXR4ehMz22fV", "da": "", "mc": "as punishment"}
-{"qid": "NYcTJoQKwAGgyi4FB5gAt8", "da": "", "mc": "to terrorize"}
-{"qid": "NaxFfMbXiDnFeK2TDQpBpL", "da": "", "mc": "private enterprise"}
-{"qid": "NsLGudV3NNLiYhGjCqbw78", "da": "", "mc": "hugging"}
-{"qid": "Qv49BJttrdU8moobFFSe58", "da": "", "mc": "lake"}
-{"qid": "SGt3LAcTjvTtjzjBAtJsCd", "da": "", "mc": "upper-left"}
-{"qid": "SoTQafEnfUD2Y8PJj7uSH5", "da": "", "mc": "microwave"}
-{"qid": "UCbMvJEQ5bXNnFJMtybA48", "da": "", "mc": "large tv"}
-{"qid": "UkRTVsdAmDo7qV28T2qKzs", "da": "", "mc": "home"}
-{"qid": "XaVW3KQGzwUPCJeYwr99F6", "da": "", "mc": "bear fair"}
-{"qid": "YRPvUijZr6hbuQgiyVDRqE", "da": "", "mc": "single exposed"}
-{"qid": "aUgAiwcNTDksCTSB4zLqLx", "da": "", "mc": "medical"}
-{"qid": "axQQHVN8GNWTHu4B4fzqaF", "da": "", "mc": "standing"}
-{"qid": "dGNtvZFEJbcK6dbZNuPfPq", "da": "", "mc": "cleaning"}
-{"qid": "eEb8jhgNYqiJED63DeAKVT", "da": "", "mc": "left person"}
-{"qid": "es4dTSrFkgs2LEtLByV5Fk", "da": "", "mc": "kickflip"}
-{"qid": "gR5qY6Tpgq26YAbGrZAwwJ", "da": "", "mc": "pond"}
-{"qid": "h4zCFQx6fTvww2Z3rzcq9K", "da": "", "mc": "protection"}
-{"qid": "hLHsuNu5R8Hf8xat2DzcDb", "da": "", "mc": "house"}
-{"qid": "iSYpHGY6hdWo6qLQBbrENX", "da": "", "mc": "tiger woods"}
-{"qid": "ijeUcdVFHVYtTABEpPYJCR", "da": "", "mc": "for rain"}
-{"qid": "mo9chSC5Km6Nu3Dg3mwrX6", "da": "", "mc": "andruw jones"}
-{"qid": "myZ67NZGoYaNEa8kADF8rV", "da": "", "mc": "bad weather"}
-{"qid": "NRg96YBDgRbc5zFqdhKCC4", "da": "", "mc": "safety"}
-{"qid": "SkThfxuJxxSm39tNSA4FmQ", "da": "", "mc": "traffic control"}
-{"qid": "mK6UjDvYm6Wzn75aaaSEdF", "da": "", "mc": "getting blind"}
-{"qid": "2gD7ih9AsXq7BmRBn57jv5", "da": "", "mc": "jersey"}
-{"qid": "3wvvpLQuiKWmKy5RHKESEC", "da": "", "mc": "eating them"}
-{"qid": "4XAzPXBEk6aZHFvdPTKdjH", "da": "", "mc": "tackling"}
-{"qid": "8a5uCKsjUC9vtK2i7Amh28", "da": "", "mc": "spider bite"}
-{"qid": "MqCKsUbTPGQJxLL75tGc5F", "da": "", "mc": "50"}
-{"qid": "WmFJXxTJibdaLUQiLHKPNg", "da": "", "mc": "prevent leaks"}
-{"qid": "Wsm6n4QiLcUf8UEmRUCdNL", "da": "", "mc": "dark"}
-{"qid": "ZQKmx3C4YgDDUWd34gaPhS", "da": "", "mc": "dog"}
-{"qid": "Zg7XNQn9CZt3jkATUMXFhp", "da": "", "mc": "bob"}
-{"qid": "a7EiGZsffnAC9nVsb9Y7AY", "da": "", "mc": "switch hitter"}
-{"qid": "ab8eLKrdMaUhKCHtrDknSy", "da": "", "mc": "selling flowers"}
-{"qid": "gurW28uKknkS6kmv6aPa6X", "da": "", "mc": "oil down"}
-{"qid": "iEWtnFwjAXAqCFXiopTTZs", "da": "", "mc": "comfort"}
