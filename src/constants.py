@@ -71,10 +71,10 @@ MODELS = {
     "raw_results_dir": "joel",
     "raw_results_fname": "llama3-8b-instruct.json"
   },
-  # "CLIP (Zero Shot)": {
-  #   "raw_results_dir": "",
-  #   "raw_results_fname": ""
-  # },
+  "CLIP (Zero Shot) UM-T": {
+    "raw_results_dir": "nihali",
+    "raw_results_fname": "clip-contrastive-zero-unimodal-ques"
+  },
   "CLIP (Contrastive) UM-T": {
     "raw_results_dir": "nihali",
     "raw_results_fname": "clip-contrastive-unimodal-ques"
