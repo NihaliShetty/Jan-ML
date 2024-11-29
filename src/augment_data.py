@@ -36,6 +36,5 @@ print("Filtered out all the empty ones: ", len(final_train) == len(aokvqa_train)
 # Change Filename!
 file_path = '../results/viper_augmentations/aokvqa_plus_viper_val.json'
 
-# Open the file and write the list of dictionaries as JSON
 with open(file_path, 'w') as file:
     json.dump(final_train, file, indent=4)
