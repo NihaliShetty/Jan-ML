@@ -183,8 +183,55 @@ def train_model(model, train_dataloader, processor, valid_dataloader, epochs, le
                 f"DA Loss = {total_da_loss / len(train_dataloader):.4f}")
             
             # Evaluate after each epoch
-            # evaluate_model(model, processor, valid_dataloader, device, loss_fn)
+            evaluate_model(model, valid_dataloader, device, loss_fn)
 
+def evaluate_model(model, dataloader, device, loss_fn):
+    model.eval()
+    total_loss = 0
+    total_mc_loss = 0
+    total_da_loss = 0
+
+    with torch.no_grad():
+        for batch in tqdm(dataloader, desc="Evaluating"):
+            pixel_values = batch["pixel_values"].to(device)
+
+            # MC task
+            mc_input_ids = batch["mc_input_ids"].to(device)
+            mc_attention_mask = batch["mc_attention_mask"].to(device)
+            mc_labels = batch["mc_labels"].to(device)
+
+            mc_outputs = model(
+                pixel_values=pixel_values, 
+                input_ids=mc_input_ids, 
+                attention_mask=mc_attention_mask, 
+                labels=mc_labels
+            )
+
+            # DA task
+            da_input_ids = batch["da_input_ids"].to(device)
+            da_attention_mask = batch["da_attention_mask"].to(device)
+            da_labels = batch["da_labels"].to(device)
+
+            da_outputs = model(
+                pixel_values=pixel_values, 
+                input_ids=da_input_ids, 
+                attention_mask=da_attention_mask, 
+                labels=da_labels
+            )
+
+            # Compute weighted losses
+            loss, mc_loss, da_loss = loss_fn(mc_outputs.logits, mc_labels, da_outputs.logits, da_labels)
+
+            total_loss += loss.item()
+            total_mc_loss += mc_loss.item()
+            total_da_loss += da_loss.item()
+
+    avg_loss = total_loss / len(dataloader)
+    avg_mc_loss = total_mc_loss / len(dataloader)
+    avg_da_loss = total_da_loss / len(dataloader)
+
+    print(f"Validation: Total Loss = {avg_loss:.4f}, MC Loss = {avg_mc_loss:.4f}, DA Loss = {avg_da_loss:.4f}")
+    
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--train_file", type=str, default="../results/viper_augmentations/aokvqa_plus_viper_train.json")
@@ -194,6 +241,7 @@ if __name__ == "__main__":
     parser.add_argument("--learning_rate", type=float, default=5e-4)
     parser.add_argument("--da_weight", type=float, default=1.0)
     parser.add_argument("--mc_weight", type=float, default=1.0)
+    parser.add_argument("--save_model_path", type=str, default="./trained_model")
     args = parser.parse_args()
 
     coco_dir = os.getenv('COCO_DIR')
@@ -213,6 +261,6 @@ if __name__ == "__main__":
 
     train_model(model, train_dataloader, processor, val_dataloader, args.epochs, args.learning_rate, device)
 
-    model.save_pretrained("./trained_model")
-    processor.save_pretrained("./trained_model")
-    print("Model and processor saved to './trained_model'")
+    model.save_pretrained(args.save_model_path)
+    processor.save_pretrained(args.save_model_path)
+    print(f"Model and processor saved to {args.save_model_path}")
