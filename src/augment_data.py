@@ -20,10 +20,9 @@ for k, v in viper_train.items():
     new_dict = {"viper_question": v["question"], "viper_response": v["response"]}
     for item in aokvqa_train:
         if item["question_id"] == question_id:
-            # not filter out the empty responses
-            # if len(v["response"]) != 0:
-            #     item["viper_gpt"] = new_dict
+            item["viper_gpt"] = new_dict
             final_train.append(item)
+            # print(item)
 
 print("Length of original qokvpa data: ", len(aokvqa_train))
 print("Empty responses from viper gpt: ", count)
