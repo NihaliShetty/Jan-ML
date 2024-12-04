@@ -2,6 +2,7 @@ import os
 os.environ['COCO_DIR'] = '/usr1/data/mingqia2/datasets/coco/'
 os.environ['AOKVQA_DIR'] = '/usr1/data/mingqia2/aokvqa/'
 os.environ['HF_HOME'] = '/usr1/data/models_cache'
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 import argparse
 import json 
 from collections import Counter
@@ -14,14 +15,16 @@ from torch.utils.data import DataLoader
 from datasets import load_dataset
 from PIL import Image
 
-from transformers import Blip2Processor, Blip2ForConditionalGeneration
-from transformers import AutoProcessor, AutoModelForVisualQuestionAnswering
+from transformers import Blip2Processor, Blip2ForConditionalGeneration, BitsAndBytesConfig
+from peft import LoraConfig, get_peft_model
 
 from load_aokvqa import load_aokvqa, get_coco_path
 import random 
+from accelerate import Accelerator
+import torch.distributed as dist
 
 class VQADataset(Dataset):
-    def __init__(self, dataset, processor, coco_dir, max_length=256):
+    def __init__(self, dataset, processor, coco_dir, max_length=128):
         """
         Args:
             dataset: List of samples with original question, answer, and visual clues.
@@ -131,9 +134,14 @@ class CustomLoss(nn.Module):
         total_loss = self.mc_weight * mc_loss + self.da_weight * da_loss
         return total_loss, mc_loss, da_loss 
 
-def train_model(model, train_dataloader, processor, valid_dataloader, epochs, learning_rate, device, da_weight=1.0, mc_weight=1.0):
+def train_model(model, train_dataloader, processor, val_dataloader, epochs, learning_rate, accelerator, da_weight=1.0, mc_weight=1.0):
         optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
         loss_fn = CustomLoss(da_weight=da_weight, mc_weight=mc_weight)
+        device = accelerator.device
+        # prepare model, optimizer, and dataloaders with Accelerator
+        model, train_dataloader, val_dataloader, optimizer = accelerator.prepare(
+            model, train_dataloader, val_dataloader, optimizer
+        )
         
         for epoch in range(epochs):
             model.train()
@@ -151,6 +159,7 @@ def train_model(model, train_dataloader, processor, valid_dataloader, epochs, le
                     pixel_values=pixel_values, 
                     input_ids=mc_input_ids, 
                     attention_mask=mc_attention_mask, 
+                    labels=mc_labels
                 )
 
                 # DA task
@@ -162,6 +171,7 @@ def train_model(model, train_dataloader, processor, valid_dataloader, epochs, le
                     pixel_values=pixel_values, 
                     input_ids=da_input_ids, 
                     attention_mask=da_attention_mask, 
+                    labels=da_labels
                 )
  
                 mc_logits = mc_outputs.logits[:, :mc_labels.size(1), :]  # Shape: [batch_size, label_seq_len, vocab_size]
@@ -171,7 +181,8 @@ def train_model(model, train_dataloader, processor, valid_dataloader, epochs, le
 
                 # Backpropagation
                 optimizer.zero_grad()
-                loss.backward()
+                # loss.backward()
+                accelerator.backward(loss)
                 optimizer.step()
 
                 total_loss += loss.item()
@@ -183,13 +194,11 @@ def train_model(model, train_dataloader, processor, valid_dataloader, epochs, le
                 f"DA Loss = {total_da_loss / len(train_dataloader):.4f}")
             
             # Evaluate after each epoch
-            evaluate_model(model, valid_dataloader, device, loss_fn)
+            evaluate_model(model, val_dataloader, loss_fn, device)
 
-def evaluate_model(model, dataloader, device, loss_fn):
+def evaluate_model(model, dataloader, loss_fn, device):
     model.eval()
-    total_loss = 0
-    total_mc_loss = 0
-    total_da_loss = 0
+    total_loss, total_mc_loss, total_da_loss = 0, 0, 0
 
     with torch.no_grad():
         for batch in tqdm(dataloader, desc="Evaluating"):
@@ -220,7 +229,10 @@ def evaluate_model(model, dataloader, device, loss_fn):
             )
 
             # Compute weighted losses
-            loss, mc_loss, da_loss = loss_fn(mc_outputs.logits, mc_labels, da_outputs.logits, da_labels)
+            mc_logits = mc_outputs.logits[:, :mc_labels.size(1), :]
+            da_logits = da_outputs.logits[:, :da_labels.size(1), :]
+            
+            loss, mc_loss, da_loss = loss_fn(mc_logits, da_logits, mc_labels, da_labels)
 
             total_loss += loss.item()
             total_mc_loss += mc_loss.item()
@@ -246,10 +258,32 @@ if __name__ == "__main__":
 
     coco_dir = os.getenv('COCO_DIR')
     aokvqa_dir = os.getenv('AOKVQA_DIR')
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    
+    accelerator = Accelerator(gradient_accumulation_steps=4)
+    print(f"Using device: {accelerator.device}")
+    print(f"Number of GPUs available: {accelerator.num_processes}")
+    
+    # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = accelerator.device
     processor = Blip2Processor.from_pretrained("Salesforce/blip2-opt-2.7b")
-    model = Blip2ForConditionalGeneration.from_pretrained("Salesforce/blip2-opt-2.7b", device_map="auto")
-
+    model = Blip2ForConditionalGeneration.from_pretrained("Salesforce/blip2-opt-2.7b")
+    model.to(device)
+    
+    # model = Blip2ForConditionalGeneration.from_pretrained("Salesforce/blip2-opt-2.7b", device_map="auto")
+    # quant_config = BitsAndBytesConfig(load_in_8bit=True)
+    # model = Blip2ForConditionalGeneration.from_pretrained("Salesforce/blip2-opt-2.7b", device_map="auto", quantization_config=quant_config) # using PEFT
+    # config = LoraConfig(
+    #     r=16,
+    #     lora_alpha=32,
+    #     lora_dropout=0.05,
+    #     bias="none",
+    #     target_modules=["q_proj", "k_proj"]
+    # )
+    # model = get_peft_model(model, config)
+    # model.print_trainable_parameters()
+    # model = Blip2ForConditionalGeneration.from_pretrained("Salesforce/blip2-opt-2.7b")
+    # model.to(device)
+    
     training_dataset = load_dataset("json", data_files={"train": args.train_file}, split="train")
     validation_dataset = load_dataset("json", data_files={"val": args.val_file}, split="val")
 
@@ -259,7 +293,7 @@ if __name__ == "__main__":
     train_dataloader = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=True, collate_fn=vqa_collate_fn)
     val_dataloader = DataLoader(val_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=vqa_collate_fn)
 
-    train_model(model, train_dataloader, processor, val_dataloader, args.epochs, args.learning_rate, device)
+    train_model(model, train_dataloader, processor, val_dataloader, args.epochs, args.learning_rate, accelerator)
 
     model.save_pretrained(args.save_model_path)
     processor.save_pretrained(args.save_model_path)
